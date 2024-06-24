@@ -1,13 +1,15 @@
 from datetime import datetime
 
 class Commande():
-    def __init__(self, date, prix_total=0.0, coUte='', no_comm=False):
-        # 这样就不用在外面转换字符串了
-        self.date = self.dater(date) if isinstance(date, str) else date
-        self.prix_total = float(prix_total) if isinstance(date, str) else prix_total
-        self.coUte = coUte
+    def __init__(self, date, prix=0.0, quant=1, coûte='', no_comm=False):
+        self.date = self.dater(date) if isinstance(date, str) else date # 这样就不用在外面转换字符串了
+
+        le_prix = float(prix) if isinstance(date, str) else prix
+        la_quant = int(quant) if isinstance(date, str) else quant
+        self.prix_total = le_prix * la_quant
         
-        self.no_comm = no_comm # 订单号是否存在
+        self.coûte = coûte
+        self.no_comm = bool(no_comm) # 订单号是否存在
         
         self.valide = self.valider()
 
@@ -16,17 +18,23 @@ class Commande():
         return datetime.strptime(date_brute, "%Y-%m-%dT%H:%M:%S").date()
 
     def valider(self):
-        if (self.coUte == '') or (not self.no_comm):
+        if (self.coûte == '') or (not self.no_comm):
             return False
         
-        if isinstance(self.coUte, str):
-            self.coUte = float(self.coUte)
+        if isinstance(self.coûte, str):
+            self.coûte = float(self.coûte)
         return True
     
     def __add__(self, c):
         nouv_pt = self.prix_total + c.prix_total
-        nouv_coUte = self.coUte + c.coUte
-        return Commande(self.date, nouv_pt, nouv_coUte, self.no_comm)
+        nouv_coûte = self.coûte + c.coûte
+        return Commande(self.date, nouv_pt, 1, nouv_coûte, self.no_comm)
+    
+    def __str__(self) -> str:
+        return (f"Date: {self.date}\n" \
+                f"Prix total: {self.prix_total}\n" \
+                f"Coûte: {self.coûte}\n" \
+                f"N° de commande: {self.no_comm}\n")
 
 # if __name__ == '__main__':
 #     c1 = Commande("2020-12-10T00:41:15", 59.52)
@@ -34,4 +42,4 @@ class Commande():
 #     c3 = Commande("2020-12-10T07:29:06", 122.79)
 
 #     C = sum([c1, c2, c3], start=Commande("2020-12-10T00:00:00"))
-#     print(C.date, C.prix_total, C.coUte, C.no_comm, C.valide)
+#     print(C)
