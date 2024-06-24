@@ -13,9 +13,10 @@ def readSheet(i):
     # t0 = time.time()
     sh = doc.get_worksheet(i).get_all_values()[ROWS_START_FROM:]
     rows = len(sh)
-    # print(sh)
+    print(sh)
+    # print(type(sh[0][3]))
     # print(f"{len(sh)} rows, {len(sh[0])} colonnes")
     # print(f"Duration: {time.time()-t0} s")
 
 if __name__ == '__main__':
-    readSheet(2, 0)
+    readSheet(2)
