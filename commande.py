@@ -1,4 +1,6 @@
 from datetime import datetime
+from globaux import DATE_FIN
+# from datetime import date
 
 class Commande():
     def __init__(self, date, prix=0.0, quant=1, coûte='', no_comm=False):
@@ -15,7 +17,7 @@ class Commande():
 
     # 将带日期的字符串转换为日期物件
     def dater(self, date_brute):
-        return datetime.strptime(date_brute, "%Y-%m-%dT%H:%M:%S").date()
+        return datetime.strptime(date_brute[:DATE_FIN], "%Y-%m-%dT%H:%M:%S").date()
 
     def valider(self):
         if (self.coûte == '') or (not self.no_comm):
@@ -36,7 +38,8 @@ class Commande():
                 f"Date: {self.date}; "
                 f"Prix total: {self.prix_total}; "
                 f"Coûte: {self.coûte}; "
-                f"N° de commande: {self.no_comm}"
+                f"N° de commande: {self.no_comm}; " 
+                f"Valide: {self.valide}"
                 " }")
 
 # if __name__ == '__main__':
@@ -44,5 +47,5 @@ class Commande():
 #     c2 = Commande("2020-12-10T22:34:50", 49.27)
 #     c3 = Commande("2020-12-10T07:29:06", 122.79)
 
-#     C = sum([c1, c2, c3], start=Commande("2020-12-10T00:00:00"))
+#     C = sum([c1, c2, c3], start=Commande(date(2020, 12, 10)))
 #     print(C)

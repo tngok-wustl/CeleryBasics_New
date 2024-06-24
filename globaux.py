@@ -8,3 +8,5 @@ COL_QUANT = 7
 COL_COÛTE = 28 # 花费
 COL_NO_COMM = 29 # 订单号
 COL_NO_SUIVI = 42 # 快递号
+
+DATE_FIN = 19 # 日期字符串截掉时区
