@@ -13,7 +13,7 @@ class Commande():
         
         self.valide = self.valider()
 
-    # 将带日期的字符串转换为日期
+    # 将带日期的字符串转换为日期物件
     def dater(self, date_brute):
         return datetime.strptime(date_brute, "%Y-%m-%dT%H:%M:%S").date()
 
@@ -30,11 +30,14 @@ class Commande():
         nouv_coûte = self.coûte + c.coûte
         return Commande(self.date, nouv_pt, 1, nouv_coûte, self.no_comm)
     
-    def __str__(self) -> str:
-        return (f"Date: {self.date}\n" \
-                f"Prix total: {self.prix_total}\n" \
-                f"Coûte: {self.coûte}\n" \
-                f"N° de commande: {self.no_comm}\n")
+    # 可以直接在命令提示窗口中印出订单对象
+    def __repr__(self) -> str:
+        return ("{ "
+                f"Date: {self.date}; "
+                f"Prix total: {self.prix_total}; "
+                f"Coûte: {self.coûte}; "
+                f"N° de commande: {self.no_comm}"
+                " }")
 
 # if __name__ == '__main__':
 #     c1 = Commande("2020-12-10T00:41:15", 59.52)
