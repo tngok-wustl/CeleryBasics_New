@@ -1,13 +1,13 @@
+# https://docs.celeryq.dev/en/main/userguide/tasks.html
+
 from celery import Celery
 from lire_feuille import lire_une_feuille
 from sommer import sommer_comms
-from time import sleep
 
 appli = Celery('appli_celery', broker='redis://localhost:6379/0', backend='redis://localhost:6379/1')
 
-@appli.task()
+@appli.task(autoretry_for=(Exception,), default_retry_delay=1, max_retries=1)
 def luf(i):
-    # sleep(1)
     return lire_une_feuille(i)
 
 @appli.task()

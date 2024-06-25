@@ -1,6 +1,7 @@
 import gspread
 from globaux import *
 from commande import Commande
+from time import sleep
 # from time import time
 
 gc = gspread.service_account(filename="mcommandes_service.json")
@@ -12,6 +13,9 @@ doc = gc.open("Commandes_2020 ACC 399")
 
 def lire_une_feuille(i):
     # t0 = time()
+    print(f"{i} attend...")
+    sleep(1)
+    print(f"{i} attendu")
     flle = doc.get_worksheet(i).get_all_values()[LIGNES_ÀPD:]
     # print(sh)
     # print(type(sh[0][3]))
