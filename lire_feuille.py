@@ -22,7 +22,7 @@ def lire_une_feuille(i):
                               c[COL_PRIX],
                               c[COL_QUANT],
                               c[COL_COÛTE],
-                              c[COL_NO_COMM])
+                              bool(c[COL_NO_COMM]))
                               for c in flle if c[COL_DATE_ACHAT]]        
     return commandes
 

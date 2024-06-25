@@ -1,0 +1,234 @@
+[2024-06-25 10:37:51,603: ERROR/ForkPoolWorker-1] Task appli_celery.luf[d1419be0-9e7e-436c-bbe3-5e227abb5f17] raised unexpected: SSLError(MaxRetryError('HTTPSConnectionPool(host=\'sheets.googleapis.com\', port=443): Max retries exceeded with url: /v4/spreadsheets/1SJTOn0FNIzy76FH8OeSz1Ul55lJkL-ZkmWAUaa5tFGo?includeGridData=false (Caused by SSLError(SSLError("read error: Error([(\'SSL routines\', \'ssl3_get_record\', \'decryption failed or bad record mac\')])")))'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.8/http/client.py", line 1348, in getresponse
+    response.begin()
+  File "/usr/lib/python3.8/http/client.py", line 316, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.8/http/client.py", line 277, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3/dist-packages/urllib3/contrib/pyopenssl.py", line 332, in recv_into
+    raise ssl.SSLError("read error: %r" % e)
+ssl.SSLError: ("read error: Error([('SSL routines', 'ssl3_get_record', 'decryption failed or bad record mac')])",)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='sheets.googleapis.com', port=443): Max retries exceeded with url: /v4/spreadsheets/1SJTOn0FNIzy76FH8OeSz1Ul55lJkL-ZkmWAUaa5tFGo?includeGridData=false (Caused by SSLError(SSLError("read error: Error([('SSL routines', 'ssl3_get_record', 'decryption failed or bad record mac')])")))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/celery/app/trace.py", line 453, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/celery/app/trace.py", line 736, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/mnt/c/Users/tonyn/Desktop/Tech/Python/MCommandes/appli_celery.py", line 9, in luf
+    return lire_une_feuille(i)
+  File "/mnt/c/Users/tonyn/Desktop/Tech/Python/MCommandes/lire_feuille.py", line 15, in lire_une_feuille
+    flle = doc.get_worksheet(i).get_all_values()[LIGNES_ÀPD:]
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/gspread/spreadsheet.py", line 248, in get_worksheet
+    sheet_data = self.fetch_sheet_metadata()
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/gspread/spreadsheet.py", line 230, in fetch_sheet_metadata
+    return self.client.fetch_sheet_metadata(self.id, params=params)
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/gspread/http_client.py", line 305, in fetch_sheet_metadata
+    r = self.request("get", url, params=params)
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/gspread/http_client.py", line 114, in request
+    response = self.session.request(
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/google/auth/transport/requests.py", line 538, in request
+    response = super(AuthorizedSession, self).request(
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='sheets.googleapis.com', port=443): Max retries exceeded with url: /v4/spreadsheets/1SJTOn0FNIzy76FH8OeSz1Ul55lJkL-ZkmWAUaa5tFGo?includeGridData=false (Caused by SSLError(SSLError("read error: Error([('SSL routines', 'ssl3_get_record', 'decryption failed or bad record mac')])")))
+[2024-06-25 10:37:51,599: ERROR/ForkPoolWorker-2] Task appli_celery.luf[6daa780f-584c-463b-a8fc-5e8ffb190fe9] raised unexpected: SSLError(MaxRetryError('HTTPSConnectionPool(host=\'sheets.googleapis.com\', port=443): Max retries exceeded with url: /v4/spreadsheets/1SJTOn0FNIzy76FH8OeSz1Ul55lJkL-ZkmWAUaa5tFGo?includeGridData=false (Caused by SSLError(SSLError("read error: Error([(\'SSL routines\', \'ssl3_get_record\', \'decryption failed or bad record mac\')])")))'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.8/http/client.py", line 1348, in getresponse
+    response.begin()
+  File "/usr/lib/python3.8/http/client.py", line 316, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.8/http/client.py", line 277, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3/dist-packages/urllib3/contrib/pyopenssl.py", line 332, in recv_into
+    raise ssl.SSLError("read error: %r" % e)
+ssl.SSLError: ("read error: Error([('SSL routines', 'ssl3_get_record', 'decryption failed or bad record mac')])",)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='sheets.googleapis.com', port=443): Max retries exceeded with url: /v4/spreadsheets/1SJTOn0FNIzy76FH8OeSz1Ul55lJkL-ZkmWAUaa5tFGo?includeGridData=false (Caused by SSLError(SSLError("read error: Error([('SSL routines', 'ssl3_get_record', 'decryption failed or bad record mac')])")))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/celery/app/trace.py", line 453, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/celery/app/trace.py", line 736, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/mnt/c/Users/tonyn/Desktop/Tech/Python/MCommandes/appli_celery.py", line 9, in luf
+    return lire_une_feuille(i)
+  File "/mnt/c/Users/tonyn/Desktop/Tech/Python/MCommandes/lire_feuille.py", line 15, in lire_une_feuille
+    flle = doc.get_worksheet(i).get_all_values()[LIGNES_ÀPD:]
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/gspread/spreadsheet.py", line 248, in get_worksheet
+    sheet_data = self.fetch_sheet_metadata()
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/gspread/spreadsheet.py", line 230, in fetch_sheet_metadata
+    return self.client.fetch_sheet_metadata(self.id, params=params)
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/gspread/http_client.py", line 305, in fetch_sheet_metadata
+    r = self.request("get", url, params=params)
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/gspread/http_client.py", line 114, in request
+    response = self.session.request(
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/google/auth/transport/requests.py", line 538, in request
+    response = super(AuthorizedSession, self).request(
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='sheets.googleapis.com', port=443): Max retries exceeded with url: /v4/spreadsheets/1SJTOn0FNIzy76FH8OeSz1Ul55lJkL-ZkmWAUaa5tFGo?includeGridData=false (Caused by SSLError(SSLError("read error: Error([('SSL routines', 'ssl3_get_record', 'decryption failed or bad record mac')])")))
+[2024-06-25 10:37:51,608: ERROR/ForkPoolWorker-3] Task appli_celery.luf[d2ded850-8d5e-4f34-92c0-8d24a3345640] raised unexpected: SSLError(MaxRetryError('HTTPSConnectionPool(host=\'sheets.googleapis.com\', port=443): Max retries exceeded with url: /v4/spreadsheets/1SJTOn0FNIzy76FH8OeSz1Ul55lJkL-ZkmWAUaa5tFGo?includeGridData=false (Caused by SSLError(SSLError("read error: Error([(\'SSL routines\', \'ssl3_get_record\', \'decryption failed or bad record mac\')])")))'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 665, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.8/http/client.py", line 1348, in getresponse
+    response.begin()
+  File "/usr/lib/python3.8/http/client.py", line 316, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.8/http/client.py", line 277, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3/dist-packages/urllib3/contrib/pyopenssl.py", line 332, in recv_into
+    raise ssl.SSLError("read error: %r" % e)
+ssl.SSLError: ("read error: Error([('SSL routines', 'ssl3_get_record', 'decryption failed or bad record mac')])",)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 719, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='sheets.googleapis.com', port=443): Max retries exceeded with url: /v4/spreadsheets/1SJTOn0FNIzy76FH8OeSz1Ul55lJkL-ZkmWAUaa5tFGo?includeGridData=false (Caused by SSLError(SSLError("read error: Error([('SSL routines', 'ssl3_get_record', 'decryption failed or bad record mac')])")))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/celery/app/trace.py", line 453, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/celery/app/trace.py", line 736, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/mnt/c/Users/tonyn/Desktop/Tech/Python/MCommandes/appli_celery.py", line 9, in luf
+    return lire_une_feuille(i)
+  File "/mnt/c/Users/tonyn/Desktop/Tech/Python/MCommandes/lire_feuille.py", line 15, in lire_une_feuille
+    flle = doc.get_worksheet(i).get_all_values()[LIGNES_ÀPD:]
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/gspread/spreadsheet.py", line 248, in get_worksheet
+    sheet_data = self.fetch_sheet_metadata()
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/gspread/spreadsheet.py", line 230, in fetch_sheet_metadata
+    return self.client.fetch_sheet_metadata(self.id, params=params)
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/gspread/http_client.py", line 305, in fetch_sheet_metadata
+    r = self.request("get", url, params=params)
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/gspread/http_client.py", line 114, in request
+    response = self.session.request(
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/google/auth/transport/requests.py", line 538, in request
+    response = super(AuthorizedSession, self).request(
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='sheets.googleapis.com', port=443): Max retries exceeded with url: /v4/spreadsheets/1SJTOn0FNIzy76FH8OeSz1Ul55lJkL-ZkmWAUaa5tFGo?includeGridData=false (Caused by SSLError(SSLError("read error: Error([('SSL routines', 'ssl3_get_record', 'decryption failed or bad record mac')])")))
+[2024-06-25 10:37:51,608: ERROR/ForkPoolWorker-4] Task appli_celery.luf[489f088e-e131-460b-98bc-40fa5c7fe4e8] raised unexpected: SSLError("read error: Error([('SSL routines', 'ssl3_get_record', 'decryption failed or bad record mac')])")
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/contrib/pyopenssl.py", line 313, in recv_into
+    return self.connection.recv_into(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/OpenSSL/SSL.py", line 1822, in recv_into
+    self._raise_ssl_error(self._ssl, result)
+  File "/usr/lib/python3/dist-packages/OpenSSL/SSL.py", line 1647, in _raise_ssl_error
+    _raise_current_error()
+  File "/usr/lib/python3/dist-packages/OpenSSL/_util.py", line 54, in exception_from_error_queue
+    raise exception_type(errors)
+OpenSSL.SSL.Error: [('SSL routines', 'ssl3_get_record', 'decryption failed or bad record mac')]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/celery/app/trace.py", line 453, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/celery/app/trace.py", line 736, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/mnt/c/Users/tonyn/Desktop/Tech/Python/MCommandes/appli_celery.py", line 9, in luf
+    return lire_une_feuille(i)
+  File "/mnt/c/Users/tonyn/Desktop/Tech/Python/MCommandes/lire_feuille.py", line 15, in lire_une_feuille
+    flle = doc.get_worksheet(i).get_all_values()[LIGNES_ÀPD:]
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/gspread/spreadsheet.py", line 248, in get_worksheet
+    sheet_data = self.fetch_sheet_metadata()
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/gspread/spreadsheet.py", line 230, in fetch_sheet_metadata
+    return self.client.fetch_sheet_metadata(self.id, params=params)
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/gspread/http_client.py", line 305, in fetch_sheet_metadata
+    r = self.request("get", url, params=params)
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/gspread/http_client.py", line 114, in request
+    response = self.session.request(
+  File "/home/tony-ngok/.local/lib/python3.8/site-packages/google/auth/transport/requests.py", line 538, in request
+    response = super(AuthorizedSession, self).request(
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 686, in send
+    r.content
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 828, in content
+    self._content = b''.join(self.iter_content(CONTENT_CHUNK_SIZE)) or b''
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 750, in generate
+    for chunk in self.raw.stream(chunk_size, decode_content=True):
+  File "/usr/lib/python3/dist-packages/urllib3/response.py", line 560, in stream
+    for line in self.read_chunked(amt, decode_content=decode_content):
+  File "/usr/lib/python3/dist-packages/urllib3/response.py", line 755, in read_chunked
+    chunk = self._handle_chunk(amt)
+  File "/usr/lib/python3/dist-packages/urllib3/response.py", line 699, in _handle_chunk
+    value = self._fp._safe_read(amt)
+  File "/usr/lib/python3.8/http/client.py", line 613, in _safe_read
+    data = self.fp.read(amt)
+  File "/usr/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3/dist-packages/urllib3/contrib/pyopenssl.py", line 332, in recv_into
+    raise ssl.SSLError("read error: %r" % e)
+ssl.SSLError: ("read error: Error([('SSL routines', 'ssl3_get_record', 'decryption failed or bad record mac')])",)
