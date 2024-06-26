@@ -9,7 +9,6 @@ def formater(num):
 if __name__ == '__main__':
     # print(appli.control.inspect().stats())
     # print(luf(245))
-
     print("Lire les commandes...")
 
     # 异步读取工作表
@@ -22,3 +21,5 @@ if __name__ == '__main__':
     # print(commandes[20])
     # print([i for i in range(1, 300) if commandes[i-1] == 'Erreur'])
     # print("Erreurs:", commandes.count("Erreur"))
+
+    
