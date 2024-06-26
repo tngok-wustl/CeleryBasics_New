@@ -3,12 +3,32 @@
 from celery import Celery
 from lire_feuille import lire_une_feuille
 from sommer import sommer_comms
+from gspread.exceptions import APIError
+from celery.exceptions import MaxRetriesExceededError
 
 appli = Celery('appli_celery', broker='redis://localhost:6379/0', backend='redis://localhost:6379/1')
 
-@appli.task(autoretry_for=(Exception,), default_retry_delay=1, max_retries=1)
-def luf(i):
-    return lire_une_feuille(i)
+# @appli.task(
+        # bind=True,
+        # autoretry_for=(Exception,),
+        # default_retry_delay=0,
+        # retry_backoff=True,
+        # max_retries=3,
+        # )
+@appli.task(bind=True, rate_limit='1/s')
+def luf(self, i):
+    try:
+        try:
+            return lire_une_feuille(i)
+        except APIError as api_e:
+            print(api_e)
+            raise self.retry(countdown=60, max_retries=None)
+        except BaseException as e:
+            print(f"Err: {type(e)}")
+            print(e)
+            raise self.retry(countdown=1, max_retries=None)
+    except MaxRetriesExceededError:
+        return "Erreur"
 
 @appli.task()
 def sc(tuples_comms, valide):

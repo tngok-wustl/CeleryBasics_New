@@ -18,7 +18,10 @@ class Commande(dict):
 
     # 将带日期的字符串转换为日期物件
     def dater(self, date_brute):
-        return datetime.strptime(date_brute[:DATE_FIN], "%Y-%m-%dT%H:%M:%S").date()
+        try:
+            return datetime.strptime(date_brute[:DATE_FIN], "%Y-%m-%dT%H:%M:%S").date()
+        except ValueError:
+            return "" # 发现其中一张表格中有一行日期值不规范，所以忽略那一行
 
     def valider(self):
         if (self['coûte'] == '') or (not self['no_comm']):

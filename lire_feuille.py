@@ -1,8 +1,8 @@
 import gspread
 from globaux import *
 from commande import Commande
-from time import sleep
-# from time import time
+from time import sleep, time
+from gspread.exceptions import APIError
 
 gc = gspread.service_account(filename="mcommandes_service.json")
 
@@ -13,25 +13,36 @@ doc = gc.open("Commandes_2020 ACC 399")
 
 def lire_une_feuille(i):
     # t0 = time()
-    print(f"{i} attend...")
-    sleep(1)
-    print(f"{i} attendu")
-    flle = doc.get_worksheet(i).get_all_values()[LIGNES_ÀPD:]
-    # print(sh)
-    # print(type(sh[0][3]))
-    # print(f"{len(sh)} lignes, {len(sh[0])} colonnes")
+    print(f"{i} ici")
+    # sleep(1)
+    # print(f"{i} attendu")
+
+    f = doc.get_worksheet(i).get_all_values()
+    print(f)
+    # print(type(f[0][3]))
+    # print(f"{len(f)} lignes, {len(f[0])} colonnes")
     # print(f"Durée: {time()-t0} s")
 
-    commandes = [Commande(c[COL_DATE_ACHAT],
-                              c[COL_PRIX],
-                              c[COL_QUANT],
-                              c[COL_COÛTE],
-                              bool(c[COL_NO_COMM]))
-                              for c in flle if c[COL_DATE_ACHAT]]        
+    # 按列名识别工作表数据
+    titres = f[TITRES]
+    col_date_achat = titres.index(COL_DATE_ACHAT)
+    col_prix = titres.index(COL_PRIX)
+    col_quant = titres.index(COL_QUANT)
+    col_coûte = titres.index(COL_COÛTE)
+    col_no_comm = titres.index(COL_NO_COMM)
+    
+    flle = f[LIGNES_ÀPD:]
+    commandes = [Commande(c[col_date_achat],
+                            c[col_prix],
+                            c[col_quant],
+                            c[col_coûte],
+                            bool(c[col_no_comm]))
+                            for c in flle if c[col_date_achat]]        
     return commandes
 
-# if __name__ == '__main__':
-#     commandes = lire_une_feuille(2)
-#     print(f"Combien de commandes ici ? {len(commandes)}\n")
-#     for c in commandes:
-#         print(c)
+if __name__ == '__main__':
+    commandes = lire_une_feuille(236)
+    print(commandes)
+    print(f"Combien de commandes ici ? {len(commandes)}\n")
+    for c in commandes:
+        print(c)
