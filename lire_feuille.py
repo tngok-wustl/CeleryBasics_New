@@ -1,8 +1,8 @@
 import gspread
 from globaux import *
 from commande import Commande
-from time import sleep, time
-from gspread.exceptions import APIError
+# from time import sleep, time
+# from gspread.exceptions import APIError
 
 gc = gspread.service_account(filename="mcommandes_service.json")
 
@@ -18,7 +18,7 @@ def lire_une_feuille(i):
     # print(f"{i} attendu")
 
     f = doc.get_worksheet(i).get_all_values()
-    print(f)
+    # print(f)
     # print(type(f[0][3]))
     # print(f"{len(f)} lignes, {len(f[0])} colonnes")
     # print(f"Durée: {time()-t0} s")
@@ -40,9 +40,9 @@ def lire_une_feuille(i):
                             for c in flle if c[col_date_achat]]        
     return commandes
 
-if __name__ == '__main__':
-    commandes = lire_une_feuille(236)
-    print(commandes)
-    print(f"Combien de commandes ici ? {len(commandes)}\n")
-    for c in commandes:
-        print(c)
+# if __name__ == '__main__':
+#     commandes = lire_une_feuille(236)
+#     print(commandes)
+#     print(f"Combien de commandes ici ? {len(commandes)}\n")
+#     for c in commandes:
+#         print(c)

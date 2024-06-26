@@ -20,7 +20,7 @@
     celery -A appli_celery purge
     ```
 
-## 发现的问题
+## 编程中发现的问题及对策
 
 1. celery只能处理（JSON化）某些数据类型（例如dictionary）；所以所创建的订单对象必须基于dictionary。
 

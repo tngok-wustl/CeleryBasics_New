@@ -8,3 +8,5 @@ celery实际应用范例
 5. 需要每3个小时跑一次
 
 gspread库：读取Google sheet
+
+try-except: 截获异常，然后
