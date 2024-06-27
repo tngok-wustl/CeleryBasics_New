@@ -3,13 +3,18 @@ from globaux import *
 from commande import Commande
 # from time import sleep, time
 # from gspread.exceptions import APIError
+from datetime import datetime
+
+# 将带日期的字符串转换为日期物件
+def bonne_date(cdc):
+    try:
+        return datetime.strptime(cdc[:DATE_FIN], "%Y-%m-%dT%H:%M:%S").date()
+    except ValueError:
+        return None # 发现其中一张表格中有一行日期值不规范，所以忽略那一行
 
 gc = gspread.service_account(filename="mcommandes_service.json")
 
-# t0 = time()
-doc = gc.open("Commandes_2020 ACC 399")
-# print(sh.get_worksheet(2).get('B4'))
-# print(f"Durée: {time()-t0} s") # 读一格时间约为8秒
+doc = gc.open_by_key(GSPREAD_ID)
 
 def lire_une_feuille(i):
     # t0 = time()
@@ -32,12 +37,12 @@ def lire_une_feuille(i):
     col_no_comm = titres.index(COL_NO_COMM)
     
     flle = f[LIGNES_ÀPD:]
-    commandes = [Commande(c[col_date_achat],
+    commandes = [Commande(bonne_date(c[col_date_achat]),
                             c[col_prix],
                             c[col_quant],
                             c[col_coûte],
                             bool(c[col_no_comm]))
-                            for c in flle if c[col_date_achat]]        
+                            for c in flle if bonne_date(c[col_date_achat])]
     return commandes
 
 # if __name__ == '__main__':
@@ -46,3 +51,9 @@ def lire_une_feuille(i):
 #     print(f"Combien de commandes ici ? {len(commandes)}\n")
 #     for c in commandes:
 #         print(c)
+
+# if __name__ == '__main__':
+#     s = doc.worksheets()
+#     print(len(s))
+#     print(doc.worksheets())
+#     print(s[4].get('C4'))

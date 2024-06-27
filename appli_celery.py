@@ -15,18 +15,18 @@ appli = Celery('appli_celery', broker='redis://localhost:6379/0', backend='redis
         # retry_backoff=True,
         # max_retries=3,
         # )
-@appli.task(bind=True, rate_limit='1/s')
+@appli.task(bind=True, rate_limit='1/s', max_retries=None)
 def luf(self, i):
     try:
         try:
             return lire_une_feuille(i)
         except APIError as api_e:
             print(api_e)
-            raise self.retry(countdown=60, max_retries=None)
+            raise self.retry(countdown=60)
         except BaseException as e:
             print(f"Err: {type(e)}")
             print(e)
-            raise self.retry(countdown=1, max_retries=None)
+            raise self.retry(countdown=1, max_retries=10)
     except MaxRetriesExceededError:
         return "Erreur"
 

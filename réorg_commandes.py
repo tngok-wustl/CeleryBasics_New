@@ -1,7 +1,7 @@
 from itertools import chain, groupby
 from operator import itemgetter
-# from lire_feuille import lire_une_feuille
-# from time import time
+from lire_feuille import lire_une_feuille
+from time import time
 
 # 将所有订单物件放在一个大清单中，然后按日期及有效性排序并重组订单
 def réorg_les_comms(liste_comms):
@@ -13,7 +13,7 @@ def réorg_les_comms(liste_comms):
 
 # if __name__ == '__main__':
 #     t0 = time()
-#     CC = [lire_une_feuille(2), lire_une_feuille(3), lire_une_feuille(299)]
+#     CC = [lire_une_feuille(236)]
 #     print(CC)
 #     print(f"Durée: {time()-t0} s")
 

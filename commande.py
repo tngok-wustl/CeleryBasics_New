@@ -1,4 +1,4 @@
-from datetime import datetime
+# from datetime import datetime
 from globaux import DATE_FIN
 # from datetime import date
 
@@ -7,8 +7,8 @@ class Commande(dict):
     def __init__(self, date, prix=0.0, quant=1, coûte='', no_comm=False):
         la_date = self.dater(date) if isinstance(date, str) else date # 这样就不用在外面转换字符串了
 
-        le_prix = float(prix) if isinstance(date, str) else prix
-        la_quant = int(quant) if isinstance(date, str) else quant
+        le_prix = float(prix) if isinstance(prix, str) else prix
+        la_quant = int(quant) if isinstance(quant, str) else quant
 
         super().__init__(date=la_date,
                          prix_total=le_prix*la_quant,
@@ -16,12 +16,11 @@ class Commande(dict):
                          no_comm=no_comm)
         self['valide'] = self.valider()
 
-    # 将带日期的字符串转换为日期物件
-    def dater(self, date_brute):
-        try:
-            return datetime.strptime(date_brute[:DATE_FIN], "%Y-%m-%dT%H:%M:%S").date()
-        except ValueError:
-            return "" # 发现其中一张表格中有一行日期值不规范，所以忽略那一行
+    # def dater(self, date_brute):
+    #     try:
+    #         return datetime.strptime(date_brute[:DATE_FIN], "%Y-%m-%dT%H:%M:%S").date()
+    #     except ValueError:
+    #         return "" 
 
     def valider(self):
         if (self['coûte'] == '') or (not self['no_comm']):

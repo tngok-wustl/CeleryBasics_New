@@ -1,0 +1,1441 @@
+2019-10-11
+1 order(s) with cost(s) and/or order number(s) missing (total price: 33,46)
+
+2019-10-12
+3 order(s) with cost(s) and/or order number(s) missing (total price: 199,89)
+
+2019-10-24
+1 other order(s) (total price: 243,46)
+
+2019-10-25
+1 order(s) with cost(s) and/or order number(s) missing (total price: 108,44)
+5 other order(s) (total price: 401,05)
+
+2019-10-26
+1 other order(s) (total price: 90,59)
+
+2019-10-27
+1 other order(s) (total price: 36,26)
+
+2019-10-28
+1 order(s) with cost(s) and/or order number(s) missing (total price: 76,72)
+2 other order(s) (total price: 414,08)
+
+2019-10-29
+3 other order(s) (total price: 185,50)
+
+2019-10-30
+1 order(s) with cost(s) and/or order number(s) missing (total price: 61,90)
+5 other order(s) (total price: 248,49)
+
+2019-10-31
+3 order(s) with cost(s) and/or order number(s) missing (total price: 397,18)
+21 other order(s) (total price: 995,45)
+
+2019-11-01
+5 order(s) with cost(s) and/or order number(s) missing (total price: 683,28)
+42 other order(s) (total price: 1.389,61)
+
+2019-11-02
+4 order(s) with cost(s) and/or order number(s) missing (total price: 246,49)
+51 other order(s) (total price: 1.982,89)
+
+2019-11-03
+8 order(s) with cost(s) and/or order number(s) missing (total price: 349,26)
+62 other order(s) (total price: 2.356,46)
+
+2019-11-04
+7 order(s) with cost(s) and/or order number(s) missing (total price: 526,92)
+53 other order(s) (total price: 2.325,80)
+
+2019-11-05
+6 order(s) with cost(s) and/or order number(s) missing (total price: 1.137,08)
+57 other order(s) (total price: 3.049,35)
+
+2019-11-06
+5 order(s) with cost(s) and/or order number(s) missing (total price: 151,66)
+49 other order(s) (total price: 2.319,84)
+
+2019-11-07
+3 order(s) with cost(s) and/or order number(s) missing (total price: 635,70)
+54 other order(s) (total price: 2.943,16)
+
+2019-11-08
+10 order(s) with cost(s) and/or order number(s) missing (total price: 392,83)
+73 other order(s) (total price: 3.758,09)
+
+2019-11-09
+5 order(s) with cost(s) and/or order number(s) missing (total price: 418,47)
+55 other order(s) (total price: 2.884,69)
+
+2019-11-10
+8 order(s) with cost(s) and/or order number(s) missing (total price: 829,04)
+54 other order(s) (total price: 2.303,27)
+
+2019-11-11
+5 order(s) with cost(s) and/or order number(s) missing (total price: 315,11)
+62 other order(s) (total price: 3.405,83)
+
+2019-11-12
+3 order(s) with cost(s) and/or order number(s) missing (total price: 99,63)
+67 other order(s) (total price: 3.428,85)
+
+2019-11-13
+7 order(s) with cost(s) and/or order number(s) missing (total price: 336,46)
+42 other order(s) (total price: 2.163,16)
+
+2019-11-14
+7 order(s) with cost(s) and/or order number(s) missing (total price: 754,35)
+57 other order(s) (total price: 2.674,67)
+
+2019-11-15
+7 order(s) with cost(s) and/or order number(s) missing (total price: 229,88)
+65 other order(s) (total price: 3.183,41)
+
+2019-11-16
+6 order(s) with cost(s) and/or order number(s) missing (total price: 359,08)
+56 other order(s) (total price: 2.753,07)
+
+2019-11-17
+11 order(s) with cost(s) and/or order number(s) missing (total price: 907,47)
+49 other order(s) (total price: 2.247,80)
+
+2019-11-18
+13 order(s) with cost(s) and/or order number(s) missing (total price: 712,46)
+66 other order(s) (total price: 3.432,60)
+
+2019-11-19
+6 order(s) with cost(s) and/or order number(s) missing (total price: 524,29)
+61 other order(s) (total price: 2.618,85)
+
+2019-11-20
+12 order(s) with cost(s) and/or order number(s) missing (total price: 1.783,78)
+59 other order(s) (total price: 2.597,89)
+
+2019-11-21
+9 order(s) with cost(s) and/or order number(s) missing (total price: 703,29)
+62 other order(s) (total price: 2.595,23)
+
+2019-11-22
+7 order(s) with cost(s) and/or order number(s) missing (total price: 627,90)
+52 other order(s) (total price: 1.978,64)
+
+2019-11-23
+10 order(s) with cost(s) and/or order number(s) missing (total price: 658,50)
+54 other order(s) (total price: 2.528,59)
+
+2019-11-24
+18 order(s) with cost(s) and/or order number(s) missing (total price: 808,26)
+78 other order(s) (total price: 3.357,14)
+
+2019-11-25
+5 order(s) with cost(s) and/or order number(s) missing (total price: 454,52)
+55 other order(s) (total price: 2.603,53)
+
+2019-11-26
+12 order(s) with cost(s) and/or order number(s) missing (total price: 607,76)
+69 other order(s) (total price: 2.413,11)
+
+2019-11-27
+11 order(s) with cost(s) and/or order number(s) missing (total price: 850,33)
+86 other order(s) (total price: 3.544,55)
+
+2019-11-28
+13 order(s) with cost(s) and/or order number(s) missing (total price: 820,44)
+49 other order(s) (total price: 1.862,21)
+
+2019-11-29
+14 order(s) with cost(s) and/or order number(s) missing (total price: 973,47)
+98 other order(s) (total price: 3.991,66)
+
+2019-11-30
+20 order(s) with cost(s) and/or order number(s) missing (total price: 1.750,16)
+93 other order(s) (total price: 4.052,89)
+
+2019-12-01
+12 order(s) with cost(s) and/or order number(s) missing (total price: 862,14)
+87 other order(s) (total price: 3.454,61)
+
+2019-12-02
+26 order(s) with cost(s) and/or order number(s) missing (total price: 1.016,74)
+125 other order(s) (total price: 4.972,98)
+
+2019-12-03
+29 order(s) with cost(s) and/or order number(s) missing (total price: 1.373,41)
+95 other order(s) (total price: 3.094,52)
+
+2019-12-04
+14 order(s) with cost(s) and/or order number(s) missing (total price: 1.876,91)
+85 other order(s) (total price: 3.352,72)
+
+2019-12-05
+18 order(s) with cost(s) and/or order number(s) missing (total price: 1.659,74)
+83 other order(s) (total price: 3.805,61)
+
+2019-12-06
+19 order(s) with cost(s) and/or order number(s) missing (total price: 1.741,16)
+102 other order(s) (total price: 4.317,92)
+
+2019-12-07
+15 order(s) with cost(s) and/or order number(s) missing (total price: 1.055,14)
+76 other order(s) (total price: 2.978,20)
+
+2019-12-08
+19 order(s) with cost(s) and/or order number(s) missing (total price: 1.120,05)
+84 other order(s) (total price: 3.464,84)
+
+2019-12-09
+18 order(s) with cost(s) and/or order number(s) missing (total price: 1.271,34)
+94 other order(s) (total price: 4.350,64)
+
+2019-12-10
+20 order(s) with cost(s) and/or order number(s) missing (total price: 1.625,55)
+100 other order(s) (total price: 4.062,61)
+
+2019-12-11
+20 order(s) with cost(s) and/or order number(s) missing (total price: 1.554,80)
+112 other order(s) (total price: 4.245,92)
+
+2019-12-12
+36 order(s) with cost(s) and/or order number(s) missing (total price: 3.211,78)
+127 other order(s) (total price: 5.148,20)
+
+2019-12-13
+55 order(s) with cost(s) and/or order number(s) missing (total price: 4.354,19)
+146 other order(s) (total price: 6.045,43)
+
+2019-12-14
+72 order(s) with cost(s) and/or order number(s) missing (total price: 5.017,72)
+154 other order(s) (total price: 5.888,63)
+
+2019-12-15
+86 order(s) with cost(s) and/or order number(s) missing (total price: 5.214,96)
+186 other order(s) (total price: 6.888,27)
+
+2019-12-16
+118 order(s) with cost(s) and/or order number(s) missing (total price: 7.745,05)
+168 other order(s) (total price: 7.255,03)
+
+2019-12-17
+88 order(s) with cost(s) and/or order number(s) missing (total price: 5.956,95)
+159 other order(s) (total price: 7.100,47)
+
+2019-12-18
+95 order(s) with cost(s) and/or order number(s) missing (total price: 5.594,15)
+191 other order(s) (total price: 7.957,46)
+
+2019-12-19
+84 order(s) with cost(s) and/or order number(s) missing (total price: 5.915,21)
+170 other order(s) (total price: 7.187,61)
+
+2019-12-20
+62 order(s) with cost(s) and/or order number(s) missing (total price: 4.335,64)
+165 other order(s) (total price: 7.078,90)
+
+2019-12-21
+56 order(s) with cost(s) and/or order number(s) missing (total price: 3.168,19)
+146 other order(s) (total price: 6.812,08)
+
+2019-12-22
+31 order(s) with cost(s) and/or order number(s) missing (total price: 2.080,01)
+108 other order(s) (total price: 4.505,21)
+
+2019-12-23
+27 order(s) with cost(s) and/or order number(s) missing (total price: 2.657,33)
+94 other order(s) (total price: 3.893,73)
+
+2019-12-24
+15 order(s) with cost(s) and/or order number(s) missing (total price: 935,18)
+78 other order(s) (total price: 2.938,74)
+
+2019-12-25
+12 order(s) with cost(s) and/or order number(s) missing (total price: 651,43)
+95 other order(s) (total price: 3.965,91)
+
+2019-12-26
+18 order(s) with cost(s) and/or order number(s) missing (total price: 1.219,86)
+104 other order(s) (total price: 4.052,49)
+
+2019-12-27
+21 order(s) with cost(s) and/or order number(s) missing (total price: 1.997,51)
+101 other order(s) (total price: 4.259,47)
+
+2019-12-28
+27 order(s) with cost(s) and/or order number(s) missing (total price: 1.870,91)
+107 other order(s) (total price: 4.005,68)
+
+2019-12-29
+17 order(s) with cost(s) and/or order number(s) missing (total price: 769,08)
+114 other order(s) (total price: 4.338,31)
+
+2019-12-30
+12 order(s) with cost(s) and/or order number(s) missing (total price: 757,81)
+96 other order(s) (total price: 4.058,95)
+
+2019-12-31
+14 order(s) with cost(s) and/or order number(s) missing (total price: 638,66)
+85 other order(s) (total price: 3.177,57)
+
+2020-01-01
+16 order(s) with cost(s) and/or order number(s) missing (total price: 780,39)
+93 other order(s) (total price: 3.010,81)
+
+2020-01-02
+13 order(s) with cost(s) and/or order number(s) missing (total price: 961,39)
+116 other order(s) (total price: 4.676,63)
+
+2020-01-03
+16 order(s) with cost(s) and/or order number(s) missing (total price: 618,63)
+107 other order(s) (total price: 4.437,78)
+
+2020-01-04
+14 order(s) with cost(s) and/or order number(s) missing (total price: 1.160,07)
+106 other order(s) (total price: 4.434,70)
+
+2020-01-05
+8 order(s) with cost(s) and/or order number(s) missing (total price: 489,55)
+109 other order(s) (total price: 4.077,32)
+
+2020-01-06
+8 order(s) with cost(s) and/or order number(s) missing (total price: 487,60)
+134 other order(s) (total price: 4.660,20)
+
+2020-01-07
+14 order(s) with cost(s) and/or order number(s) missing (total price: 956,45)
+141 other order(s) (total price: 5.588,79)
+
+2020-01-08
+11 order(s) with cost(s) and/or order number(s) missing (total price: 690,66)
+139 other order(s) (total price: 5.562,08)
+
+2020-01-09
+11 order(s) with cost(s) and/or order number(s) missing (total price: 515,14)
+131 other order(s) (total price: 4.851,87)
+
+2020-01-10
+13 order(s) with cost(s) and/or order number(s) missing (total price: 783,96)
+142 other order(s) (total price: 5.125,15)
+
+2020-01-11
+12 order(s) with cost(s) and/or order number(s) missing (total price: 674,92)
+104 other order(s) (total price: 4.400,54)
+
+2020-01-12
+14 order(s) with cost(s) and/or order number(s) missing (total price: 601,87)
+146 other order(s) (total price: 5.483,60)
+
+2020-01-13
+17 order(s) with cost(s) and/or order number(s) missing (total price: 1.325,91)
+182 other order(s) (total price: 7.294,64)
+
+2020-01-14
+11 order(s) with cost(s) and/or order number(s) missing (total price: 555,18)
+163 other order(s) (total price: 5.885,98)
+
+2020-01-15
+15 order(s) with cost(s) and/or order number(s) missing (total price: 1.585,84)
+153 other order(s) (total price: 5.787,28)
+
+2020-01-16
+12 order(s) with cost(s) and/or order number(s) missing (total price: 522,66)
+168 other order(s) (total price: 7.268,23)
+
+2020-01-17
+18 order(s) with cost(s) and/or order number(s) missing (total price: 1.162,39)
+144 other order(s) (total price: 5.564,78)
+
+2020-01-18
+7 order(s) with cost(s) and/or order number(s) missing (total price: 258,54)
+126 other order(s) (total price: 5.000,95)
+
+2020-01-19
+16 order(s) with cost(s) and/or order number(s) missing (total price: 1.310,59)
+123 other order(s) (total price: 5.048,61)
+
+2020-01-20
+14 order(s) with cost(s) and/or order number(s) missing (total price: 742,00)
+122 other order(s) (total price: 4.374,83)
+
+2020-01-21
+20 order(s) with cost(s) and/or order number(s) missing (total price: 998,90)
+156 other order(s) (total price: 5.945,89)
+
+2020-01-22
+19 order(s) with cost(s) and/or order number(s) missing (total price: 1.046,37)
+154 other order(s) (total price: 5.819,30)
+
+2020-01-23
+22 order(s) with cost(s) and/or order number(s) missing (total price: 1.569,58)
+137 other order(s) (total price: 5.514,68)
+
+2020-01-24
+24 order(s) with cost(s) and/or order number(s) missing (total price: 1.359,76)
+155 other order(s) (total price: 6.269,57)
+
+2020-01-25
+16 order(s) with cost(s) and/or order number(s) missing (total price: 1.104,81)
+110 other order(s) (total price: 4.619,50)
+
+2020-01-26
+108 order(s) with cost(s) and/or order number(s) missing (total price: 7.084,09)
+111 other order(s) (total price: 4.110,55)
+
+2020-01-27
+55 order(s) with cost(s) and/or order number(s) missing (total price: 3.219,55)
+187 other order(s) (total price: 7.338,08)
+
+2020-01-28
+17 order(s) with cost(s) and/or order number(s) missing (total price: 1.007,99)
+156 other order(s) (total price: 6.517,27)
+
+2020-01-29
+24 order(s) with cost(s) and/or order number(s) missing (total price: 1.562,29)
+131 other order(s) (total price: 5.864,17)
+
+2020-01-30
+14 order(s) with cost(s) and/or order number(s) missing (total price: 1.004,61)
+133 other order(s) (total price: 6.057,33)
+
+2020-01-31
+4 order(s) with cost(s) and/or order number(s) missing (total price: 188,85)
+143 other order(s) (total price: 5.979,54)
+
+2020-02-01
+14 order(s) with cost(s) and/or order number(s) missing (total price: 1.078,27)
+136 other order(s) (total price: 5.022,29)
+
+2020-02-02
+5 order(s) with cost(s) and/or order number(s) missing (total price: 250,91)
+119 other order(s) (total price: 4.463,00)
+
+2020-02-03
+11 order(s) with cost(s) and/or order number(s) missing (total price: 929,66)
+125 other order(s) (total price: 5.025,56)
+
+2020-02-04
+13 order(s) with cost(s) and/or order number(s) missing (total price: 678,58)
+135 other order(s) (total price: 5.807,74)
+
+2020-02-05
+13 order(s) with cost(s) and/or order number(s) missing (total price: 1.131,45)
+159 other order(s) (total price: 6.803,43)
+
+2020-02-06
+10 order(s) with cost(s) and/or order number(s) missing (total price: 1.079,52)
+113 other order(s) (total price: 4.268,39)
+
+2020-02-07
+9 order(s) with cost(s) and/or order number(s) missing (total price: 966,29)
+123 other order(s) (total price: 5.620,75)
+
+2020-02-08
+10 order(s) with cost(s) and/or order number(s) missing (total price: 350,09)
+111 other order(s) (total price: 4.995,89)
+
+2020-02-09
+15 order(s) with cost(s) and/or order number(s) missing (total price: 1.070,04)
+129 other order(s) (total price: 5.028,40)
+
+2020-02-10
+12 order(s) with cost(s) and/or order number(s) missing (total price: 659,00)
+117 other order(s) (total price: 4.777,10)
+
+2020-02-11
+21 order(s) with cost(s) and/or order number(s) missing (total price: 1.712,83)
+119 other order(s) (total price: 5.183,01)
+
+2020-02-12
+12 order(s) with cost(s) and/or order number(s) missing (total price: 1.509,32)
+133 other order(s) (total price: 5.441,63)
+
+2020-02-13
+21 order(s) with cost(s) and/or order number(s) missing (total price: 1.456,49)
+104 other order(s) (total price: 4.627,30)
+
+2020-02-14
+11 order(s) with cost(s) and/or order number(s) missing (total price: 640,31)
+82 other order(s) (total price: 3.090,89)
+
+2020-02-15
+14 order(s) with cost(s) and/or order number(s) missing (total price: 702,75)
+77 other order(s) (total price: 3.417,14)
+
+2020-02-16
+10 order(s) with cost(s) and/or order number(s) missing (total price: 713,87)
+93 other order(s) (total price: 3.357,30)
+
+2020-02-17
+5 order(s) with cost(s) and/or order number(s) missing (total price: 364,63)
+71 other order(s) (total price: 2.394,72)
+
+2020-02-18
+8 order(s) with cost(s) and/or order number(s) missing (total price: 598,97)
+97 other order(s) (total price: 4.285,33)
+
+2020-02-19
+6 order(s) with cost(s) and/or order number(s) missing (total price: 480,87)
+80 other order(s) (total price: 3.486,79)
+
+2020-02-20
+3 order(s) with cost(s) and/or order number(s) missing (total price: 472,01)
+84 other order(s) (total price: 3.808,48)
+
+2020-02-21
+9 order(s) with cost(s) and/or order number(s) missing (total price: 493,61)
+85 other order(s) (total price: 3.315,69)
+
+2020-02-22
+11 order(s) with cost(s) and/or order number(s) missing (total price: 1.086,75)
+72 other order(s) (total price: 2.664,99)
+
+2020-02-23
+9 order(s) with cost(s) and/or order number(s) missing (total price: 756,40)
+69 other order(s) (total price: 2.754,50)
+
+2020-02-24
+12 order(s) with cost(s) and/or order number(s) missing (total price: 1.103,73)
+74 other order(s) (total price: 2.984,13)
+
+2020-02-25
+11 order(s) with cost(s) and/or order number(s) missing (total price: 668,55)
+80 other order(s) (total price: 3.085,49)
+
+2020-02-26
+16 order(s) with cost(s) and/or order number(s) missing (total price: 1.109,12)
+82 other order(s) (total price: 3.745,89)
+
+2020-02-27
+11 order(s) with cost(s) and/or order number(s) missing (total price: 738,50)
+75 other order(s) (total price: 2.884,22)
+
+2020-02-28
+14 order(s) with cost(s) and/or order number(s) missing (total price: 617,32)
+93 other order(s) (total price: 4.656,72)
+
+2020-02-29
+7 order(s) with cost(s) and/or order number(s) missing (total price: 535,13)
+60 other order(s) (total price: 2.559,91)
+
+2020-03-01
+8 order(s) with cost(s) and/or order number(s) missing (total price: 926,60)
+63 other order(s) (total price: 2.774,90)
+
+2020-03-02
+13 order(s) with cost(s) and/or order number(s) missing (total price: 739,65)
+76 other order(s) (total price: 2.910,83)
+
+2020-03-03
+6 order(s) with cost(s) and/or order number(s) missing (total price: 646,78)
+66 other order(s) (total price: 2.441,65)
+
+2020-03-04
+5 order(s) with cost(s) and/or order number(s) missing (total price: 449,97)
+73 other order(s) (total price: 3.346,87)
+
+2020-03-05
+7 order(s) with cost(s) and/or order number(s) missing (total price: 670,74)
+79 other order(s) (total price: 3.425,55)
+
+2020-03-06
+13 order(s) with cost(s) and/or order number(s) missing (total price: 896,07)
+69 other order(s) (total price: 4.871,38)
+
+2020-03-07
+15 order(s) with cost(s) and/or order number(s) missing (total price: 1.313,10)
+73 other order(s) (total price: 3.551,33)
+
+2020-03-08
+8 order(s) with cost(s) and/or order number(s) missing (total price: 350,34)
+81 other order(s) (total price: 2.987,61)
+
+2020-03-09
+10 order(s) with cost(s) and/or order number(s) missing (total price: 777,37)
+75 other order(s) (total price: 2.984,69)
+
+2020-03-10
+14 order(s) with cost(s) and/or order number(s) missing (total price: 790,98)
+66 other order(s) (total price: 2.705,66)
+
+2020-03-11
+5 order(s) with cost(s) and/or order number(s) missing (total price: 241,34)
+74 other order(s) (total price: 3.063,52)
+
+2020-03-12
+13 order(s) with cost(s) and/or order number(s) missing (total price: 1.250,75)
+61 other order(s) (total price: 2.118,81)
+
+2020-03-13
+4 order(s) with cost(s) and/or order number(s) missing (total price: 284,65)
+43 other order(s) (total price: 1.931,38)
+
+2020-03-14
+15 order(s) with cost(s) and/or order number(s) missing (total price: 1.080,12)
+29 other order(s) (total price: 1.048,01)
+
+2020-03-15
+8 order(s) with cost(s) and/or order number(s) missing (total price: 483,90)
+35 other order(s) (total price: 1.177,66)
+
+2020-03-16
+9 order(s) with cost(s) and/or order number(s) missing (total price: 415,76)
+48 other order(s) (total price: 1.513,08)
+
+2020-03-17
+6 order(s) with cost(s) and/or order number(s) missing (total price: 503,03)
+37 other order(s) (total price: 1.637,73)
+
+2020-03-18
+12 order(s) with cost(s) and/or order number(s) missing (total price: 1.282,26)
+44 other order(s) (total price: 1.917,63)
+
+2020-03-19
+8 order(s) with cost(s) and/or order number(s) missing (total price: 533,08)
+48 other order(s) (total price: 1.827,99)
+
+2020-03-20
+6 order(s) with cost(s) and/or order number(s) missing (total price: 280,37)
+38 other order(s) (total price: 1.077,98)
+
+2020-03-21
+14 order(s) with cost(s) and/or order number(s) missing (total price: 659,89)
+50 other order(s) (total price: 2.103,88)
+
+2020-03-22
+4 order(s) with cost(s) and/or order number(s) missing (total price: 107,38)
+65 other order(s) (total price: 2.526,19)
+
+2020-03-23
+15 order(s) with cost(s) and/or order number(s) missing (total price: 1.139,64)
+64 other order(s) (total price: 2.446,00)
+
+2020-03-24
+12 order(s) with cost(s) and/or order number(s) missing (total price: 817,98)
+67 other order(s) (total price: 2.570,47)
+
+2020-03-25
+9 order(s) with cost(s) and/or order number(s) missing (total price: 492,00)
+47 other order(s) (total price: 1.803,91)
+
+2020-03-26
+6 order(s) with cost(s) and/or order number(s) missing (total price: 487,36)
+42 other order(s) (total price: 1.762,22)
+
+2020-03-27
+4 order(s) with cost(s) and/or order number(s) missing (total price: 209,74)
+53 other order(s) (total price: 2.494,13)
+
+2020-03-28
+12 order(s) with cost(s) and/or order number(s) missing (total price: 952,51)
+34 other order(s) (total price: 1.676,24)
+
+2020-03-29
+8 order(s) with cost(s) and/or order number(s) missing (total price: 320,40)
+31 other order(s) (total price: 1.371,44)
+
+2020-03-30
+15 order(s) with cost(s) and/or order number(s) missing (total price: 666,58)
+54 other order(s) (total price: 2.005,19)
+
+2020-03-31
+10 order(s) with cost(s) and/or order number(s) missing (total price: 755,24)
+59 other order(s) (total price: 2.151,89)
+
+2020-04-01
+23 order(s) with cost(s) and/or order number(s) missing (total price: 1.393,29)
+68 other order(s) (total price: 2.858,49)
+
+2020-04-02
+23 order(s) with cost(s) and/or order number(s) missing (total price: 1.680,76)
+61 other order(s) (total price: 2.414,97)
+
+2020-04-03
+40 order(s) with cost(s) and/or order number(s) missing (total price: 2.193,92)
+75 other order(s) (total price: 3.179,31)
+
+2020-04-04
+12 order(s) with cost(s) and/or order number(s) missing (total price: 589,72)
+90 other order(s) (total price: 3.423,26)
+
+2020-04-05
+11 order(s) with cost(s) and/or order number(s) missing (total price: 446,53)
+91 other order(s) (total price: 3.947,10)
+
+2020-04-06
+21 order(s) with cost(s) and/or order number(s) missing (total price: 938,67)
+83 other order(s) (total price: 3.199,82)
+
+2020-04-07
+15 order(s) with cost(s) and/or order number(s) missing (total price: 804,33)
+80 other order(s) (total price: 3.467,80)
+
+2020-04-08
+14 order(s) with cost(s) and/or order number(s) missing (total price: 577,07)
+91 other order(s) (total price: 3.890,92)
+
+2020-04-09
+22 order(s) with cost(s) and/or order number(s) missing (total price: 1.339,34)
+82 other order(s) (total price: 3.475,23)
+
+2020-04-10
+26 order(s) with cost(s) and/or order number(s) missing (total price: 1.272,47)
+85 other order(s) (total price: 3.058,95)
+
+2020-04-11
+22 order(s) with cost(s) and/or order number(s) missing (total price: 784,30)
+76 other order(s) (total price: 3.381,52)
+
+2020-04-12
+19 order(s) with cost(s) and/or order number(s) missing (total price: 1.501,14)
+68 other order(s) (total price: 2.668,79)
+
+2020-04-13
+12 order(s) with cost(s) and/or order number(s) missing (total price: 1.028,15)
+90 other order(s) (total price: 3.882,17)
+
+2020-04-14
+25 order(s) with cost(s) and/or order number(s) missing (total price: 1.234,81)
+84 other order(s) (total price: 3.412,22)
+
+2020-04-15
+19 order(s) with cost(s) and/or order number(s) missing (total price: 1.305,40)
+111 other order(s) (total price: 4.342,12)
+
+2020-04-16
+14 order(s) with cost(s) and/or order number(s) missing (total price: 1.155,98)
+104 other order(s) (total price: 4.636,23)
+
+2020-04-17
+13 order(s) with cost(s) and/or order number(s) missing (total price: 815,46)
+91 other order(s) (total price: 3.914,86)
+
+2020-04-18
+12 order(s) with cost(s) and/or order number(s) missing (total price: 832,11)
+95 other order(s) (total price: 3.805,40)
+
+2020-04-19
+10 order(s) with cost(s) and/or order number(s) missing (total price: 812,05)
+101 other order(s) (total price: 4.430,38)
+
+2020-04-20
+17 order(s) with cost(s) and/or order number(s) missing (total price: 1.110,23)
+100 other order(s) (total price: 4.296,60)
+
+2020-04-21
+15 order(s) with cost(s) and/or order number(s) missing (total price: 1.018,42)
+112 other order(s) (total price: 5.179,38)
+
+2020-04-22
+18 order(s) with cost(s) and/or order number(s) missing (total price: 809,16)
+102 other order(s) (total price: 4.219,83)
+
+2020-04-23
+14 order(s) with cost(s) and/or order number(s) missing (total price: 639,73)
+94 other order(s) (total price: 4.251,19)
+
+2020-04-24
+16 order(s) with cost(s) and/or order number(s) missing (total price: 683,94)
+86 other order(s) (total price: 3.693,98)
+
+2020-04-25
+16 order(s) with cost(s) and/or order number(s) missing (total price: 694,28)
+108 other order(s) (total price: 4.461,04)
+
+2020-04-26
+16 order(s) with cost(s) and/or order number(s) missing (total price: 774,89)
+81 other order(s) (total price: 3.559,98)
+
+2020-04-27
+21 order(s) with cost(s) and/or order number(s) missing (total price: 999,52)
+74 other order(s) (total price: 3.009,97)
+
+2020-04-28
+23 order(s) with cost(s) and/or order number(s) missing (total price: 1.177,97)
+61 other order(s) (total price: 2.601,66)
+
+2020-04-29
+19 order(s) with cost(s) and/or order number(s) missing (total price: 946,76)
+64 other order(s) (total price: 2.541,37)
+
+2020-04-30
+32 order(s) with cost(s) and/or order number(s) missing (total price: 1.628,13)
+45 other order(s) (total price: 1.862,69)
+
+2020-05-01
+18 order(s) with cost(s) and/or order number(s) missing (total price: 1.056,44)
+67 other order(s) (total price: 2.830,72)
+
+2020-05-02
+9 order(s) with cost(s) and/or order number(s) missing (total price: 548,65)
+76 other order(s) (total price: 3.413,77)
+
+2020-05-03
+8 order(s) with cost(s) and/or order number(s) missing (total price: 284,65)
+58 other order(s) (total price: 2.468,19)
+
+2020-05-04
+9 order(s) with cost(s) and/or order number(s) missing (total price: 343,85)
+60 other order(s) (total price: 2.524,65)
+
+2020-05-05
+4 order(s) with cost(s) and/or order number(s) missing (total price: 127,59)
+43 other order(s) (total price: 1.916,73)
+
+2020-05-06
+8 order(s) with cost(s) and/or order number(s) missing (total price: 393,11)
+61 other order(s) (total price: 2.563,42)
+
+2020-05-07
+9 order(s) with cost(s) and/or order number(s) missing (total price: 422,66)
+49 other order(s) (total price: 2.731,96)
+
+2020-05-08
+8 order(s) with cost(s) and/or order number(s) missing (total price: 615,47)
+74 other order(s) (total price: 3.320,24)
+
+2020-05-09
+13 order(s) with cost(s) and/or order number(s) missing (total price: 565,74)
+71 other order(s) (total price: 3.110,19)
+
+2020-05-10
+12 order(s) with cost(s) and/or order number(s) missing (total price: 667,62)
+72 other order(s) (total price: 3.404,30)
+
+2020-05-11
+11 order(s) with cost(s) and/or order number(s) missing (total price: 882,30)
+79 other order(s) (total price: 3.874,25)
+
+2020-05-12
+10 order(s) with cost(s) and/or order number(s) missing (total price: 501,29)
+53 other order(s) (total price: 2.627,25)
+
+2020-05-13
+10 order(s) with cost(s) and/or order number(s) missing (total price: 419,09)
+51 other order(s) (total price: 2.461,02)
+
+2020-05-14
+13 order(s) with cost(s) and/or order number(s) missing (total price: 711,24)
+80 other order(s) (total price: 3.551,26)
+
+2020-05-15
+19 order(s) with cost(s) and/or order number(s) missing (total price: 967,37)
+84 other order(s) (total price: 4.136,96)
+
+2020-05-16
+17 order(s) with cost(s) and/or order number(s) missing (total price: 1.119,31)
+62 other order(s) (total price: 2.930,60)
+
+2020-05-17
+8 order(s) with cost(s) and/or order number(s) missing (total price: 254,17)
+43 other order(s) (total price: 1.590,07)
+
+2020-05-18
+11 order(s) with cost(s) and/or order number(s) missing (total price: 1.398,78)
+65 other order(s) (total price: 2.915,67)
+
+2020-05-19
+11 order(s) with cost(s) and/or order number(s) missing (total price: 544,16)
+59 other order(s) (total price: 2.706,08)
+
+2020-05-20
+10 order(s) with cost(s) and/or order number(s) missing (total price: 471,52)
+69 other order(s) (total price: 2.995,74)
+
+2020-05-21
+11 order(s) with cost(s) and/or order number(s) missing (total price: 569,36)
+55 other order(s) (total price: 2.347,33)
+
+2020-05-22
+10 order(s) with cost(s) and/or order number(s) missing (total price: 655,06)
+52 other order(s) (total price: 2.092,10)
+
+2020-05-23
+10 order(s) with cost(s) and/or order number(s) missing (total price: 607,56)
+51 other order(s) (total price: 2.242,01)
+
+2020-05-24
+2 order(s) with cost(s) and/or order number(s) missing (total price: 82,64)
+35 other order(s) (total price: 1.480,50)
+
+2020-05-25
+9 order(s) with cost(s) and/or order number(s) missing (total price: 497,63)
+54 other order(s) (total price: 2.237,16)
+
+2020-05-26
+7 order(s) with cost(s) and/or order number(s) missing (total price: 460,96)
+54 other order(s) (total price: 2.678,67)
+
+2020-05-27
+5 order(s) with cost(s) and/or order number(s) missing (total price: 294,09)
+59 other order(s) (total price: 2.991,66)
+
+2020-05-28
+4 order(s) with cost(s) and/or order number(s) missing (total price: 363,81)
+61 other order(s) (total price: 2.440,39)
+
+2020-05-29
+6 order(s) with cost(s) and/or order number(s) missing (total price: 369,58)
+62 other order(s) (total price: 2.834,87)
+
+2020-05-30
+4 order(s) with cost(s) and/or order number(s) missing (total price: 290,97)
+56 other order(s) (total price: 2.582,40)
+
+2020-05-31
+8 order(s) with cost(s) and/or order number(s) missing (total price: 343,52)
+58 other order(s) (total price: 2.544,21)
+
+2020-06-01
+5 order(s) with cost(s) and/or order number(s) missing (total price: 229,18)
+76 other order(s) (total price: 3.965,66)
+
+2020-06-02
+2 order(s) with cost(s) and/or order number(s) missing (total price: 90,38)
+82 other order(s) (total price: 3.689,03)
+
+2020-06-03
+8 order(s) with cost(s) and/or order number(s) missing (total price: 514,66)
+56 other order(s) (total price: 2.739,15)
+
+2020-06-04
+6 order(s) with cost(s) and/or order number(s) missing (total price: 237,34)
+60 other order(s) (total price: 3.250,40)
+
+2020-06-05
+2 order(s) with cost(s) and/or order number(s) missing (total price: 108,79)
+64 other order(s) (total price: 3.383,54)
+
+2020-06-06
+4 order(s) with cost(s) and/or order number(s) missing (total price: 148,89)
+70 other order(s) (total price: 3.360,35)
+
+2020-06-07
+8 order(s) with cost(s) and/or order number(s) missing (total price: 780,03)
+57 other order(s) (total price: 2.635,83)
+
+2020-06-08
+1 order(s) with cost(s) and/or order number(s) missing (total price: 41,25)
+53 other order(s) (total price: 2.695,22)
+
+2020-06-09
+3 order(s) with cost(s) and/or order number(s) missing (total price: 263,00)
+70 other order(s) (total price: 3.768,10)
+
+2020-06-10
+7 order(s) with cost(s) and/or order number(s) missing (total price: 540,87)
+59 other order(s) (total price: 2.769,35)
+
+2020-06-11
+4 order(s) with cost(s) and/or order number(s) missing (total price: 270,93)
+53 other order(s) (total price: 2.737,86)
+
+2020-06-12
+5 order(s) with cost(s) and/or order number(s) missing (total price: 319,90)
+56 other order(s) (total price: 3.260,18)
+
+2020-06-13
+5 order(s) with cost(s) and/or order number(s) missing (total price: 218,43)
+40 other order(s) (total price: 2.080,81)
+
+2020-06-14
+6 order(s) with cost(s) and/or order number(s) missing (total price: 394,75)
+44 other order(s) (total price: 1.780,27)
+
+2020-06-15
+9 order(s) with cost(s) and/or order number(s) missing (total price: 545,80)
+51 other order(s) (total price: 2.778,85)
+
+2020-06-16
+12 order(s) with cost(s) and/or order number(s) missing (total price: 817,82)
+48 other order(s) (total price: 2.475,17)
+
+2020-06-17
+12 order(s) with cost(s) and/or order number(s) missing (total price: 443,77)
+63 other order(s) (total price: 3.702,84)
+
+2020-06-18
+10 order(s) with cost(s) and/or order number(s) missing (total price: 686,91)
+44 other order(s) (total price: 2.003,40)
+
+2020-06-19
+5 order(s) with cost(s) and/or order number(s) missing (total price: 376,23)
+44 other order(s) (total price: 2.418,50)
+
+2020-06-20
+6 order(s) with cost(s) and/or order number(s) missing (total price: 268,83)
+45 other order(s) (total price: 2.380,22)
+
+2020-06-21
+1 order(s) with cost(s) and/or order number(s) missing (total price: 91,08)
+37 other order(s) (total price: 1.802,83)
+
+2020-06-22
+4 order(s) with cost(s) and/or order number(s) missing (total price: 384,69)
+40 other order(s) (total price: 1.880,20)
+
+2020-06-23
+3 order(s) with cost(s) and/or order number(s) missing (total price: 151,77)
+35 other order(s) (total price: 2.515,40)
+
+2020-06-24
+3 order(s) with cost(s) and/or order number(s) missing (total price: 257,96)
+41 other order(s) (total price: 1.848,00)
+
+2020-06-25
+8 order(s) with cost(s) and/or order number(s) missing (total price: 699,78)
+40 other order(s) (total price: 2.012,68)
+
+2020-06-26
+1 order(s) with cost(s) and/or order number(s) missing (total price: 83,49)
+22 other order(s) (total price: 788,89)
+
+2020-06-27
+4 order(s) with cost(s) and/or order number(s) missing (total price: 141,41)
+24 other order(s) (total price: 815,23)
+
+2020-06-28
+2 order(s) with cost(s) and/or order number(s) missing (total price: 60,05)
+29 other order(s) (total price: 1.087,99)
+
+2020-06-29
+1 order(s) with cost(s) and/or order number(s) missing (total price: 72,42)
+26 other order(s) (total price: 884,69)
+
+2020-06-30
+2 order(s) with cost(s) and/or order number(s) missing (total price: 216,55)
+24 other order(s) (total price: 1.145,94)
+
+2020-07-01
+3 order(s) with cost(s) and/or order number(s) missing (total price: 111,83)
+19 other order(s) (total price: 746,24)
+
+2020-07-02
+9 order(s) with cost(s) and/or order number(s) missing (total price: 417,92)
+22 other order(s) (total price: 1.005,64)
+
+2020-07-03
+9 order(s) with cost(s) and/or order number(s) missing (total price: 294,18)
+22 other order(s) (total price: 1.375,86)
+
+2020-07-04
+5 order(s) with cost(s) and/or order number(s) missing (total price: 543,82)
+26 other order(s) (total price: 1.259,00)
+
+2020-07-05
+2 order(s) with cost(s) and/or order number(s) missing (total price: 93,64)
+34 other order(s) (total price: 1.272,01)
+
+2020-07-06
+7 order(s) with cost(s) and/or order number(s) missing (total price: 274,76)
+38 other order(s) (total price: 1.647,69)
+
+2020-07-07
+3 order(s) with cost(s) and/or order number(s) missing (total price: 132,29)
+36 other order(s) (total price: 1.472,06)
+
+2020-07-08
+2 order(s) with cost(s) and/or order number(s) missing (total price: 133,91)
+24 other order(s) (total price: 1.280,14)
+
+2020-07-09
+1 order(s) with cost(s) and/or order number(s) missing (total price: 109,53)
+23 other order(s) (total price: 1.163,37)
+
+2020-07-10
+3 order(s) with cost(s) and/or order number(s) missing (total price: 198,12)
+40 other order(s) (total price: 2.389,28)
+
+2020-07-11
+3 order(s) with cost(s) and/or order number(s) missing (total price: 221,90)
+27 other order(s) (total price: 1.349,60)
+
+2020-07-12
+1 order(s) with cost(s) and/or order number(s) missing (total price: 24,20)
+24 other order(s) (total price: 1.089,73)
+
+2020-07-13
+2 order(s) with cost(s) and/or order number(s) missing (total price: 50,11)
+30 other order(s) (total price: 1.284,96)
+
+2020-07-14
+4 order(s) with cost(s) and/or order number(s) missing (total price: 237,24)
+32 other order(s) (total price: 1.899,56)
+
+2020-07-15
+7 order(s) with cost(s) and/or order number(s) missing (total price: 436,70)
+47 other order(s) (total price: 1.960,03)
+
+2020-07-16
+5 order(s) with cost(s) and/or order number(s) missing (total price: 137,86)
+36 other order(s) (total price: 2.029,53)
+
+2020-07-17
+6 order(s) with cost(s) and/or order number(s) missing (total price: 328,72)
+28 other order(s) (total price: 1.005,30)
+
+2020-07-18
+3 order(s) with cost(s) and/or order number(s) missing (total price: 128,40)
+40 other order(s) (total price: 1.808,24)
+
+2020-07-19
+7 order(s) with cost(s) and/or order number(s) missing (total price: 452,95)
+37 other order(s) (total price: 2.153,64)
+
+2020-07-20
+2 order(s) with cost(s) and/or order number(s) missing (total price: 117,81)
+37 other order(s) (total price: 1.525,00)
+
+2020-07-21
+1 order(s) with cost(s) and/or order number(s) missing (total price: 24,18)
+32 other order(s) (total price: 1.288,64)
+
+2020-07-22
+3 order(s) with cost(s) and/or order number(s) missing (total price: 111,68)
+35 other order(s) (total price: 1.841,34)
+
+2020-07-23
+2 order(s) with cost(s) and/or order number(s) missing (total price: 194,34)
+36 other order(s) (total price: 1.810,59)
+
+2020-07-24
+7 order(s) with cost(s) and/or order number(s) missing (total price: 433,34)
+42 other order(s) (total price: 1.873,15)
+
+2020-07-25
+2 order(s) with cost(s) and/or order number(s) missing (total price: 55,34)
+22 other order(s) (total price: 1.120,14)
+
+2020-07-26
+2 order(s) with cost(s) and/or order number(s) missing (total price: 136,98)
+26 other order(s) (total price: 1.268,43)
+
+2020-07-27
+7 order(s) with cost(s) and/or order number(s) missing (total price: 383,05)
+31 other order(s) (total price: 1.425,77)
+
+2020-07-28
+2 order(s) with cost(s) and/or order number(s) missing (total price: 161,89)
+19 other order(s) (total price: 1.046,31)
+
+2020-07-29
+23 other order(s) (total price: 1.016,19)
+
+2020-07-30
+1 order(s) with cost(s) and/or order number(s) missing (total price: 133,11)
+23 other order(s) (total price: 1.069,51)
+
+2020-07-31
+2 order(s) with cost(s) and/or order number(s) missing (total price: 103,54)
+15 other order(s) (total price: 914,72)
+
+2020-08-01
+1 order(s) with cost(s) and/or order number(s) missing (total price: 43,16)
+27 other order(s) (total price: 1.412,28)
+
+2020-08-02
+22 other order(s) (total price: 1.069,85)
+
+2020-08-03
+4 order(s) with cost(s) and/or order number(s) missing (total price: 305,39)
+26 other order(s) (total price: 1.144,79)
+
+2020-08-04
+2 order(s) with cost(s) and/or order number(s) missing (total price: 149,81)
+17 other order(s) (total price: 587,18)
+
+2020-08-05
+3 order(s) with cost(s) and/or order number(s) missing (total price: 179,16)
+30 other order(s) (total price: 1.239,60)
+
+2020-08-06
+3 order(s) with cost(s) and/or order number(s) missing (total price: 233,05)
+27 other order(s) (total price: 1.115,06)
+
+2020-08-07
+6 order(s) with cost(s) and/or order number(s) missing (total price: 289,29)
+22 other order(s) (total price: 883,65)
+
+2020-08-08
+2 order(s) with cost(s) and/or order number(s) missing (total price: 167,72)
+21 other order(s) (total price: 845,19)
+
+2020-08-09
+12 other order(s) (total price: 546,45)
+
+2020-08-10
+2 order(s) with cost(s) and/or order number(s) missing (total price: 196,86)
+13 other order(s) (total price: 750,99)
+
+2020-08-11
+3 order(s) with cost(s) and/or order number(s) missing (total price: 118,11)
+18 other order(s) (total price: 740,70)
+
+2020-08-12
+4 order(s) with cost(s) and/or order number(s) missing (total price: 218,30)
+16 other order(s) (total price: 572,97)
+
+2020-08-13
+1 order(s) with cost(s) and/or order number(s) missing (total price: 28,37)
+13 other order(s) (total price: 647,37)
+
+2020-08-14
+10 other order(s) (total price: 427,30)
+
+2020-08-15
+1 order(s) with cost(s) and/or order number(s) missing (total price: 39,26)
+5 other order(s) (total price: 298,50)
+
+2020-08-16
+2 order(s) with cost(s) and/or order number(s) missing (total price: 51,12)
+7 other order(s) (total price: 376,36)
+
+2020-08-17
+1 order(s) with cost(s) and/or order number(s) missing (total price: 55,67)
+6 other order(s) (total price: 313,69)
+
+2020-08-18
+1 order(s) with cost(s) and/or order number(s) missing (total price: 52,56)
+6 other order(s) (total price: 234,75)
+
+2020-08-19
+10 other order(s) (total price: 589,10)
+
+2020-08-20
+3 order(s) with cost(s) and/or order number(s) missing (total price: 117,57)
+5 other order(s) (total price: 229,37)
+
+2020-08-21
+4 order(s) with cost(s) and/or order number(s) missing (total price: 411,00)
+6 other order(s) (total price: 175,97)
+
+2020-08-22
+1 order(s) with cost(s) and/or order number(s) missing (total price: 30,28)
+3 other order(s) (total price: 186,90)
+
+2020-08-23
+8 other order(s) (total price: 385,77)
+
+2020-08-24
+1 order(s) with cost(s) and/or order number(s) missing (total price: 67,10)
+11 other order(s) (total price: 502,82)
+
+2020-08-25
+3 order(s) with cost(s) and/or order number(s) missing (total price: 158,38)
+8 other order(s) (total price: 577,81)
+
+2020-08-26
+1 order(s) with cost(s) and/or order number(s) missing (total price: 30,30)
+3 other order(s) (total price: 154,35)
+
+2020-08-27
+12 order(s) with cost(s) and/or order number(s) missing (total price: 385,31)
+10 other order(s) (total price: 422,38)
+
+2020-08-28
+10 other order(s) (total price: 449,56)
+
+2020-08-29
+1 order(s) with cost(s) and/or order number(s) missing (total price: 78,48)
+9 other order(s) (total price: 374,27)
+
+2020-08-30
+1 order(s) with cost(s) and/or order number(s) missing (total price: 16,76)
+3 other order(s) (total price: 189,50)
+
+2020-08-31
+5 other order(s) (total price: 190,47)
+
+2020-09-01
+6 other order(s) (total price: 202,63)
+
+2020-09-02
+3 order(s) with cost(s) and/or order number(s) missing (total price: 135,39)
+6 other order(s) (total price: 217,04)
+
+2020-09-03
+1 order(s) with cost(s) and/or order number(s) missing (total price: 62,87)
+3 other order(s) (total price: 80,84)
+
+2020-09-04
+1 order(s) with cost(s) and/or order number(s) missing (total price: 47,07)
+3 other order(s) (total price: 108,74)
+
+2020-09-05
+4 other order(s) (total price: 253,36)
+
+2020-09-08
+1 other order(s) (total price: 39,08)
+
+2020-09-10
+1 order(s) with cost(s) and/or order number(s) missing (total price: 16,69)
+
+2020-09-14
+1 other order(s) (total price: 121,05)
+
+2020-09-16
+1 other order(s) (total price: 91,82)
+
+2020-09-18
+1 other order(s) (total price: 39,56)
+
+2020-09-19
+1 other order(s) (total price: 18,57)
+
+2020-09-20
+1 order(s) with cost(s) and/or order number(s) missing (total price: 74,76)
+
+2020-09-26
+2 other order(s) (total price: 77,24)
+
+2020-09-27
+1 order(s) with cost(s) and/or order number(s) missing (total price: 119,44)
+3 other order(s) (total price: 202,86)
+
+2020-09-29
+1 order(s) with cost(s) and/or order number(s) missing (total price: 66,57)
+5 other order(s) (total price: 125,96)
+
+2020-10-01
+3 order(s) with cost(s) and/or order number(s) missing (total price: 112,15)
+
+2020-10-02
+2 order(s) with cost(s) and/or order number(s) missing (total price: 49,50)
+1 other order(s) (total price: 37,39)
+
+2020-10-03
+6 other order(s) (total price: 194,41)
+
+2020-10-04
+2 other order(s) (total price: 41,99)
+
+2020-10-05
+1 other order(s) (total price: 70,93)
+
+2020-10-06
+4 order(s) with cost(s) and/or order number(s) missing (total price: 163,35)
+2 other order(s) (total price: 52,95)
+
+2020-10-07
+1 other order(s) (total price: 63,41)
+
+2020-10-08
+2 other order(s) (total price: 30,81)
+
+2020-10-10
+1 other order(s) (total price: 208,22)
+
+2020-10-11
+1 order(s) with cost(s) and/or order number(s) missing (total price: 85,29)
+3 other order(s) (total price: 59,43)
+
+2020-10-12
+1 other order(s) (total price: 44,93)
+
+2020-10-14
+1 other order(s) (total price: 70,35)
+
+2020-10-15
+1 order(s) with cost(s) and/or order number(s) missing (total price: 23,90)
+1 other order(s) (total price: 28,34)
+
+2020-10-17
+1 other order(s) (total price: 85,29)
+
+2020-10-18
+1 other order(s) (total price: 14,21)
+
+2020-10-19
+1 order(s) with cost(s) and/or order number(s) missing (total price: 88,79)
+
+2020-10-20
+1 other order(s) (total price: 31,86)
+
+2020-10-23
+1 order(s) with cost(s) and/or order number(s) missing (total price: 42,02)
+
+2020-10-24
+2 order(s) with cost(s) and/or order number(s) missing (total price: 55,96)
+4 other order(s) (total price: 133,40)
+
+2020-10-25
+1 other order(s) (total price: 13,91)
+
+2020-10-26
+1 order(s) with cost(s) and/or order number(s) missing (total price: 147,04)
+
+2020-10-27
+1 order(s) with cost(s) and/or order number(s) missing (total price: 146,33)
+3 other order(s) (total price: 279,98)
+
+2020-10-28
+1 order(s) with cost(s) and/or order number(s) missing (total price: 22,78)
+1 other order(s) (total price: 39,10)
+
+2020-10-30
+1 order(s) with cost(s) and/or order number(s) missing (total price: 21,83)
+1 other order(s) (total price: 31,58)
+
+2020-10-31
+1 other order(s) (total price: 13,25)
+
+2020-11-01
+1 other order(s) (total price: 20,40)
+
+2020-11-05
+1 order(s) with cost(s) and/or order number(s) missing (total price: 23,58)
+1 other order(s) (total price: 14,94)
+
+2020-11-08
+1 order(s) with cost(s) and/or order number(s) missing (total price: 17,25)
+
+2020-11-09
+1 order(s) with cost(s) and/or order number(s) missing (total price: 18,03)
+
+2020-11-10
+1 other order(s) (total price: 16,34)
+
+2020-11-11
+1 order(s) with cost(s) and/or order number(s) missing (total price: 11,34)
+1 other order(s) (total price: 52,08)
+
+2020-11-12
+1 other order(s) (total price: 32,89)
+
+2020-11-14
+2 other order(s) (total price: 154,32)
+
+2020-11-15
+2 other order(s) (total price: 45,85)
+
+2020-11-17
+1 order(s) with cost(s) and/or order number(s) missing (total price: 107,22)
+2 other order(s) (total price: 36,15)
+
+2020-11-18
+4 other order(s) (total price: 177,55)
+
+2020-11-19
+1 order(s) with cost(s) and/or order number(s) missing (total price: 14,89)
+
+2020-11-20
+1 order(s) with cost(s) and/or order number(s) missing (total price: 30,90)
+2 other order(s) (total price: 34,66)
+
+2020-11-22
+1 other order(s) (total price: 11,96)
+
+2020-11-26
+1 order(s) with cost(s) and/or order number(s) missing (total price: 157,38)
+1 other order(s) (total price: 222,46)
+
+2020-11-29
+1 other order(s) (total price: 18,98)
+
+2020-12-04
+1 other order(s) (total price: 63,70)
+
+2020-12-08
+1 order(s) with cost(s) and/or order number(s) missing (total price: 122,79)
+2 other order(s) (total price: 41,60)
+
+2020-12-10
+2 order(s) with cost(s) and/or order number(s) missing (total price: 108,79)

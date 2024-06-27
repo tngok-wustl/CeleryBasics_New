@@ -14,10 +14,10 @@ if __name__ == '__main__':
 
     # 异步读取工作表
     print("Lire les commandes...")
-    # t0 = time()
+    t0 = time()
     r_commandes = group([luf.s(i) for i in range(1, NOMBRE_FEUILLES)]).apply_async()
     commandes = r_commandes.get()
-    # print(f"Durée: {time()-t0} s")
+    print(f"Durée: {time()-t0} s")
     print("Commandes lues")
     # print(commandes[20])
     # print([i for i in range(1, 300) if commandes[i-1] == 'Erreur'])
@@ -29,6 +29,7 @@ if __name__ == '__main__':
     comm_orgs = réorg_les_comms(commandes)
     print(f"Durée: {time()-t0} s")
     print("Commandes organisées")
+    print(comm_orgs)
 
     # 按日统计订单
     print("Sommer les commandes...")
@@ -39,4 +40,16 @@ if __name__ == '__main__':
     print("Commandes sommées")
     print(sommes)
 
-    print(f"DURÉE TOTALE: {formater(time()-t1)} s")
+    date_actuel = None
+    for comm in sommes:
+        if comm[0]['date'] != date_actuel:
+            print()
+            print(str(comm[0]['date']))
+            date_actuel = comm[0]['date']
+
+        if comm[0]['valide'] == False:
+            print(f"{comm[1]} order(s) with cost(s) and/or order number(s) missing (total price: {formater(comm[0]['prix_total'])})")
+        else:
+            print(f"{comm[1]} other order(s) (total price: {formater(comm[0]['prix_total'])})")
+
+    print(f"\nDURÉE TOTALE: {formater(time()-t1)} s")
