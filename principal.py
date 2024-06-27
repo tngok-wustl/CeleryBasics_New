@@ -29,7 +29,7 @@ if __name__ == '__main__':
     comm_orgs = réorg_les_comms(commandes)
     print(f"Durée: {time()-t0} s")
     print("Commandes organisées")
-    print(comm_orgs)
+    # print(comm_orgs)
 
     # 按日统计订单
     print("Sommer les commandes...")
@@ -38,7 +38,7 @@ if __name__ == '__main__':
     sommes = r_sommes.get()
     print(f"Durée: {time()-t0} s")
     print("Commandes sommées")
-    print(sommes)
+    # print(sommes)
 
     date_actuel = None
     for comm in sommes:
