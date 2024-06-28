@@ -1,5 +1,5 @@
 # from datetime import datetime
-from globaux import DATE_FIN
+from old.globaux import DATE_FIN
 # from datetime import date
 
 # 必须创建基于dict的数据类型，否则无法使用celery

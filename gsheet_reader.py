@@ -20,7 +20,7 @@ class GSheetReader():
             filename="mcommandes_service.json")
 
     # 允许Google Sheet函数遇到问题重试
-    def retry(self, func: function, max_retries: int = 3, *args, **kwargs):
+    def retry(self, func: function, max_retries: int, *args, **kwargs):
         for t in range(max_retries):
             try:
                 print(f"Try {func.__name__} ({max_retries-t} left)")
@@ -65,14 +65,14 @@ class GSheetReader():
     # 生成器：从电子表（工作表物件集合）中产生订单记录，以进行数据分析
     def read_sheets(self, doc_key: str):
         # 第1步：打开Google电子表
-        sh = self.account.open_by_key(doc_key)
+        sh = self.retry(self.account.open_by_key, 3, doc_key)
         if not sh:
             print(f"ERROR: document not found. key={doc_key}")
             return
 
         # 第2步：获取电子表中所有工作表
-        worksheets = sh.worksheets()
-        if not worksheets():
+        worksheets = self.retry(sh.worksheets(), 3)
+        if not worksheets:
             print(f"ERROR: can't get the worksheets")
             return
 
@@ -90,7 +90,7 @@ class GSheetReader():
                 print(f"Can't parse worksheet '{title}'. Ignored.")
                 continue
             
-            values = ws.get_values()
+            values = self.retry(ws.get_values(), 10)
             if not values:
                 print(f"Empty worksheet '{title}'. Ignored.")
                 continue

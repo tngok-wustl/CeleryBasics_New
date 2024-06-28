@@ -1,4 +1,4 @@
-from commande import Commande
+from old.commande import Commande
 # from lire_feuille import lire_une_feuille
 # from réorg_commandes import réorg_les_comms
 # from time import time

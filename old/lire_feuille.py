@@ -1,6 +1,6 @@
 import gspread
-from globaux import *
-from commande import Commande
+from old.globaux import *
+from old.commande import Commande
 # from time import sleep, time
 # from gspread.exceptions import APIError
 from datetime import datetime

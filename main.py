@@ -1,7 +1,7 @@
 from celery import group
-from appli_celery import *
-from réorg_commandes import réorg_les_comms
-from globaux import NOMBRE_FEUILLES
+from celery_app import *
+from old.réorg_commandes import réorg_les_comms
+from old.globaux import NOMBRE_FEUILLES
 from time import time
 
 def formater(num):

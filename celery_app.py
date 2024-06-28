@@ -1,8 +1,8 @@
 # https://docs.celeryq.dev/en/main/userguide/tasks.html
 
 from celery import Celery
-from lire_feuille import lire_une_feuille
-from sommer import sommer_comms
+from old.lire_feuille import lire_une_feuille
+from old.sommer import sommer_comms
 from gspread.exceptions import APIError
 from celery.exceptions import MaxRetriesExceededError
 
@@ -15,7 +15,7 @@ appli = Celery('appli_celery', broker='redis://localhost:6379/0', backend='redis
         # retry_backoff=True,
         # max_retries=3,
         # )
-@appli.task(bind=True, rate_limit='1/s', max_retries=None)
+@appli.task(rate_limit='1/s')
 def luf(self, i):
     try:
         try:
