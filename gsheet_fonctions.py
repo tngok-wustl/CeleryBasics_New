@@ -126,6 +126,9 @@ class GSheet():
                 else:
                     # 第6步：整理每条记录的数据值
                     ord_id = row[ord_no_i]
+                    if not ord_id: # 跳过缺少订单号的记录
+                        print(f"Order ID missing. i={ri}")
+                        continue
                     
                     buy_date = self.value_cleanup(col_indices, DATE_KEY, row,
                                                   parser)
