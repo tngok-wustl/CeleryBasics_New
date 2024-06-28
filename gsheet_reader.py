@@ -14,7 +14,7 @@ COST_KEY = 'COST'
 ORD_NO_KEY = 'ORDER NUMBER'
 TRACK_NO_KEY = 'Tracking Number'
 
-class GSheet():
+class GSheetReader():
     def __init__(self):
         self.account = gspread.service_account(
             filename="mcommandes_service.json")

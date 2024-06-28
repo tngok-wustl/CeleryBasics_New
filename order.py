@@ -26,7 +26,8 @@ class Order(dict):
             self['invalid'] == o['invalid']):
             new_order = Order(ord_id='ord-id-accum', buy_date=self['buy_date'],
                               price=None, quant=None, cost=None, ord_no='',
-                              track_no='', ord_accum=self['ord_accum']+1)
+                              track_no='',
+                              ord_accum=self['ord_accum']+o['ord_accum'])
             
             if self['invalid'] != 1:
                 new_order['total_price'] = self['total_price']
