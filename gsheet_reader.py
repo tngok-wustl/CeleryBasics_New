@@ -35,7 +35,8 @@ class GSheetReader():
             except APIError as api_e:
                 err_msg = str(api_e)
                 print(err_msg)
-                if 'quota exceeded' in err_msg.lower():
+                if '429' in err_msg.lower() and \
+                    'quota exceeded' in err_msg.lower():
                     sleep(60)
                 else:
                     sleep(3)

@@ -8,14 +8,18 @@ def formater(num):
     return f"{num:_.2f}".replace('.', ',').replace('_', '.')
 
 def print_records(summaries_filtered: tuple):
-    actual_date = None
+    actual_date_profit = [None, 0.0]
 
     for summ in summaries_filtered:
         d = summ['buy_date']
-        if d != actual_date:
+        if d != actual_date_profit[0]:
+            if not (actual_date_profit[0] is None):
+                print(f"Profit: {formater(actual_date_profit[1])}")
+            
             print()
             print(str(d))
-            actual_date = d
+            actual_date_profit[0] = d
+            actual_date_profit[1] = 0.0
 
         if summ['invalid'] == 1:
             print(f"{summ['ord_accum']} order(s) "\
@@ -24,15 +28,20 @@ def print_records(summaries_filtered: tuple):
             print(f"{summ['ord_accum']} order(s) "\
                 "with cost(s) and/or order number(s) missing "\
                 f"(total price: {formater(summ['total_price'])})")
-        elif summ['invalid'] == 3:
-            print(f"{summ['ord_accum']} order(s) "
-                    "with tracking number(s) missing "\
-                f"(total price: {formater(summ['total_price'])}; "\
-                f"total cost: {formater(summ['cost'])})")
         else:
-            print(f"{summ['ord_accum']} valid order(s) "\
-                f"(total price: {formater(summ['total_price'])}; "\
-                f"total cost: {formater(summ['cost'])})")
+            tp = summ['total_price']
+            c = summ['cost']
+            if summ['invalid'] == 3:
+                print(f"{summ['ord_accum']} order(s) "
+                        "with tracking number(s) missing "\
+                    f"(total price: {formater(tp)}; total cost: {formater(c)})")
+            else:
+                print(f"{summ['ord_accum']} valid order(s) "\
+                    f"(total price: {formater(tp)}; total cost: {formater(c)})")
+            actual_date_profit[1] += (tp-c)
+    
+    print(f"Profit: {format(actual_date_profit[1])}")
+
 def main():
     t = time()
 
@@ -42,8 +51,11 @@ def main():
     # 读取工作表
     print("Reading the orders...")
     t0 = time()
+
+    # 测试时可改动range()中的数值（默认为gsheet_reader.sheets_count）
     orders_records = [gsheet_reader.get_records_from_sheet(i)
-                      for i in range(30)] # 测试时可改动range()中的数字
+                      for i in range(100)]
+    
     orders_records = list(filter(lambda n: bool(n), orders_records))
     if not orders_records:
         print(f"No orders read. Duration: {formater(time()-t0)} s")
