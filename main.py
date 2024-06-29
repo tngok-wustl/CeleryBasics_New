@@ -40,7 +40,7 @@ def print_records(summaries_filtered: tuple):
                     f"(total price: {formater(tp)}; total cost: {formater(c)})")
             actual_date_profit[1] += (tp-c)
     
-    print(f"Profit: {format(actual_date_profit[1])}")
+    print(f"Profit: {formater(actual_date_profit[1])}")
 
 def main():
     t = time()
@@ -54,7 +54,7 @@ def main():
 
     # 测试时可改动range()中的数值（默认为gsheet_reader.sheets_count）
     orders_records = [gsheet_reader.get_records_from_sheet(i)
-                      for i in range(100)]
+                      for i in range(gsheet_reader.sheets_count)]
     
     orders_records = list(filter(lambda n: bool(n), orders_records))
     if not orders_records:
