@@ -1,55 +1,72 @@
-from celery import group
-from celery_app import *
-from old.réorg_commandes import réorg_les_comms
-from old.globaux import NOMBRE_FEUILLES
 from time import time
+from gsheet_reader import GSheetReader
+from summariser import Summariser
+
+WS_KEY = '1SJTOn0FNIzy76FH8OeSz1Ul55lJkL-ZkmWAUaa5tFGo'
 
 def formater(num):
     return f"{num:_.2f}".replace('.', ',').replace('_', '.')
 
-if __name__ == '__main__':
-    t1 = time()
-    # print(appli.control.inspect().stats())
-    # print(luf(245))
+def print_records(summaries_filtered: tuple):
+    actual_date = None
 
-    # 异步读取工作表
-    print("Lire les commandes...")
-    t0 = time()
-    r_commandes = group([luf.s(i) for i in range(1, NOMBRE_FEUILLES)]).apply_async()
-    commandes = r_commandes.get()
-    print(f"Durée: {time()-t0} s")
-    print("Commandes lues")
-    # print(commandes[20])
-    # print([i for i in range(1, 300) if commandes[i-1] == 'Erreur'])
-    # print("Erreurs:", commandes.count("Erreur"))
-
-    # 排序
-    print("Organiser les commandes...")
-    t0 = time()
-    comm_orgs = réorg_les_comms(commandes)
-    print(f"Durée: {time()-t0} s")
-    print("Commandes organisées")
-    # print(comm_orgs)
-
-    # 按日统计订单
-    print("Sommer les commandes...")
-    t0 = time()
-    r_sommes = group([sc.s(co, co[0][1]) for co in comm_orgs]).apply_async()
-    sommes = r_sommes.get()
-    print(f"Durée: {time()-t0} s")
-    print("Commandes sommées")
-    # print(sommes)
-
-    date_actuel = None
-    for comm in sommes:
-        if comm[0]['date'] != date_actuel:
+    for summ in summaries_filtered:
+        d = summ['buy_date']
+        if d != actual_date:
             print()
-            print(str(comm[0]['date']))
-            date_actuel = comm[0]['date']
+            print(str(d))
+            actual_date = d
 
-        if comm[0]['valide'] == False:
-            print(f"{comm[1]} order(s) with cost(s) and/or order number(s) missing (total price: {formater(comm[0]['prix_total'])})")
+        if summ['invalid'] == 1:
+            print(f"{summ['ord_accum']} order(s) "\
+                    "with price(s) and/or quantity(-ies) missing")
+        elif summ['invalid'] == 2:
+            print(f"{summ['ord_accum']} order(s) "\
+                "with cost(s) and/or order number(s) missing "\
+                f"(total price: {formater(summ['total_price'])})")
+        elif summ['invalid'] == 3:
+            print(f"{summ['ord_accum']} order(s) "
+                    "with tracking number(s) missing "\
+                f"(total price: {formater(summ['total_price'])}; "\
+                f"total cost: {formater(summ['cost'])})")
         else:
-            print(f"{comm[1]} other order(s) (total price: {formater(comm[0]['prix_total'])})")
+            print(f"{summ['ord_accum']} valid order(s) "\
+                f"(total price: {formater(summ['total_price'])}; "\
+                f"total cost: {formater(summ['cost'])})")
+def main():
+    t = time()
 
-    print(f"\nDURÉE TOTALE: {formater(time()-t1)} s")
+    gsheet_reader = GSheetReader()
+    gsheet_reader.open_spreadsheet(WS_KEY)
+
+    # 读取工作表
+    print("Reading the orders...")
+    t0 = time()
+    orders_records = [gsheet_reader.get_records_from_sheet(i)
+                      for i in range(30)] # 测试时可改动range()中的数字
+    orders_records = list(filter(lambda n: bool(n), orders_records))
+    if not orders_records:
+        print(f"No orders read. Duration: {formater(time()-t0)} s")
+        return
+    print(f"Orders read. Duration: {formater(time()-t0)} s\n")
+
+    summariser = Summariser(orders_records)
+    summariser.group_records()
+    # print(summariser.grouped_records)
+
+    # 累加记录
+    print("Summarising up the records...")
+    t0 = time()
+    summaries = [summariser.sum_up(i) for i in range(summariser.grouped_count)]
+    summaries = list(filter(lambda n: bool(n), summaries))
+    if not summaries:
+        print(f"No summaries generated. Duration: {formater(time()-t0)} s")
+        return
+    print(f"Summaries generated. Duration: {formater(time()-t0)} s")
+
+    print_records(summaries)
+    print()
+    print(f"All done. Duration: {formater(time()-t)} s")
+
+if __name__ == '__main__':
+    main()

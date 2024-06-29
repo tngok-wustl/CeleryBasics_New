@@ -13,7 +13,7 @@ class Order(dict):
     
     # 无效订单分类（0类为有效订单）
     def check_invalid(self):
-        if (self['price'] is None) or (self['quant'] is None):
+        if (self['total_price'] is None):
             return 1
         if (self['cost'] is None) or (self['ord_no'] == ''):
             return 2
@@ -30,13 +30,14 @@ class Order(dict):
                               ord_accum=self['ord_accum']+o['ord_accum'])
             
             if self['invalid'] != 1:
-                new_order['total_price'] = self['total_price']
-                + o['total_price']
+                new_order['total_price'] = self['total_price'] \
+                    + o['total_price']
             if self['invalid'] != 2:
                 new_order['cost'] = self['cost'] + o['cost']
                 new_order['ord_no'] = 'ord-no-accum'
             if self['invalid'] != 3:
                 new_order['track_no'] = 'track-no-accum'
+            new_order['invalid'] = new_order.check_invalid()
 
             return new_order
         else:

@@ -14,7 +14,7 @@ def bonne_date(cdc):
 
 gc = gspread.service_account(filename="mcommandes_service.json")
 
-doc = gc.open_by_key(GSPREAD_ID)
+doc = gc.open_by_key('1SJTOn0FNIzy76FH8OeSz1Ul55lJkL-ZkmWAUaa5tFGo')
 
 def lire_une_feuille(i):
     # t0 = time()
