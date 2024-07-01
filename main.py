@@ -1,46 +1,8 @@
 from time import time
 from gsheet_reader import GSheetReader
 from summariser import Summariser
-
-WS_KEY = '1SJTOn0FNIzy76FH8OeSz1Ul55lJkL-ZkmWAUaa5tFGo'
-
-def formater(num):
-    return f"{num:_.2f}".replace('.', ',').replace('_', '.')
-
-def print_records(summaries_filtered: tuple):
-    actual_date_profit = [None, 0.0]
-
-    for summ in summaries_filtered:
-        d = summ['buy_date']
-        if d != actual_date_profit[0]:
-            if not (actual_date_profit[0] is None):
-                print(f"Profit: {formater(actual_date_profit[1])}")
-            
-            print()
-            print(str(d))
-            actual_date_profit[0] = d
-            actual_date_profit[1] = 0.0
-
-        if summ['invalid'] == 1:
-            print(f"{summ['ord_accum']} order(s) "\
-                    "with price(s) and/or quantity(-ies) missing")
-        elif summ['invalid'] == 2:
-            print(f"{summ['ord_accum']} order(s) "\
-                "with cost(s) and/or order number(s) missing "\
-                f"(total price: {formater(summ['total_price'])})")
-        else:
-            tp = summ['total_price']
-            c = summ['cost']
-            if summ['invalid'] == 3:
-                print(f"{summ['ord_accum']} order(s) "
-                        "with tracking number(s) missing "\
-                    f"(total price: {formater(tp)}; total cost: {formater(c)})")
-            else:
-                print(f"{summ['ord_accum']} valid order(s) "\
-                    f"(total price: {formater(tp)}; total cost: {formater(c)})")
-            actual_date_profit[1] += (tp-c)
-    
-    print(f"Profit: {formater(actual_date_profit[1])}")
+from report_exporter import ReportExporter
+from globals import *
 
 def main():
     t = time()
@@ -76,7 +38,8 @@ def main():
         return
     print(f"Summaries generated. Duration: {formater(time()-t0)} s")
 
-    print_records(summaries)
+    rec_exp = ReportExporter(summaries)
+    rec_exp.print_records()
     print()
     print(f"All done. Duration: {formater(time()-t)} s")
 
