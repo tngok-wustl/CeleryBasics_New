@@ -1,4 +1,5 @@
 from datetime import date
+from globals import Invalids
 
 class Order(dict):
     def __init__(self, ord_id: str, buy_date: date, price: float = None,
@@ -13,13 +14,13 @@ class Order(dict):
     
     # 无效订单分类（0类为有效订单）
     def check_invalid(self):
-        if (self['total_price'] is None):
-            return 1
-        if (self['cost'] is None) or (self['ord_no'] == ''):
-            return 2
-        if self['track_no'] == '':
-            return 3
-        return 0
+        if self['total_price'] is None:
+            return Invalids.NO_PRICE_QUANT
+        if self['cost'] is None:
+            return Invalids.NO_COST
+        if (self['ord_no'] == '') or (self['track_no'] == ''):
+            return Invalids.NO_ORD_TRACK_NR
+        return Invalids.VALID
     
     def __add__(self, o: dict):
         if (self['buy_date'] == o['buy_date']) and (
@@ -29,13 +30,13 @@ class Order(dict):
                               track_no='',
                               ord_accum=self['ord_accum']+o['ord_accum'])
             
-            if self['invalid'] != 1:
+            if self['invalid'] != Invalids.NO_PRICE_QUANT:
                 new_order['total_price'] = self['total_price'] \
                     + o['total_price']
-            if self['invalid'] != 2:
+            if self['invalid'] != Invalids.NO_COST:
                 new_order['cost'] = self['cost'] + o['cost']
+            if self['invalid'] != Invalids.NO_ORD_TRACK_NR:
                 new_order['ord_no'] = 'ord-no-accum'
-            if self['invalid'] != 3:
                 new_order['track_no'] = 'track-no-accum'
             new_order['invalid'] = new_order.check_invalid()
 

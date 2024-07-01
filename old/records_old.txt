@@ -1,0 +1,1828 @@
+2019-10-11
+1 order(s) with cost(s) and/or order number(s) missing (total price: 33,46)
+Profit: 0,00
+
+2019-10-12
+3 order(s) with cost(s) and/or order number(s) missing (total price: 199,89)
+Profit: 0,00
+
+2019-10-24
+1 order(s) with tracking number(s) missing (total price: 243,46; total cost: 152,04)
+Profit: 91,42
+
+2019-10-25
+1 order(s) with cost(s) and/or order number(s) missing (total price: 108,44)
+5 order(s) with tracking number(s) missing (total price: 401,05; total cost: 280,91)
+Profit: 120,14
+
+2019-10-26
+1 order(s) with tracking number(s) missing (total price: 90,59; total cost: 59,95)
+Profit: 30,64
+
+2019-10-27
+1 order(s) with tracking number(s) missing (total price: 36,26; total cost: 23,50)
+Profit: 12,76
+
+2019-10-28
+1 order(s) with cost(s) and/or order number(s) missing (total price: 76,72)
+2 order(s) with tracking number(s) missing (total price: 414,08; total cost: 316,28)
+Profit: 97,80
+
+2019-10-29
+3 order(s) with tracking number(s) missing (total price: 185,50; total cost: 131,70)
+Profit: 53,80
+
+2019-10-30
+1 order(s) with cost(s) and/or order number(s) missing (total price: 61,90)
+5 order(s) with tracking number(s) missing (total price: 248,49; total cost: 148,74)
+Profit: 99,75
+
+2019-10-31
+3 order(s) with cost(s) and/or order number(s) missing (total price: 397,18)
+21 order(s) with tracking number(s) missing (total price: 995,45; total cost: 692,85)
+Profit: 302,60
+
+2019-11-01
+5 order(s) with cost(s) and/or order number(s) missing (total price: 683,28)
+42 order(s) with tracking number(s) missing (total price: 1.389,61; total cost: 835,41)
+Profit: 554,20
+
+2019-11-02
+4 order(s) with cost(s) and/or order number(s) missing (total price: 246,49)
+51 order(s) with tracking number(s) missing (total price: 1.982,89; total cost: 1.303,89)
+Profit: 679,00
+
+2019-11-03
+8 order(s) with cost(s) and/or order number(s) missing (total price: 349,26)
+62 order(s) with tracking number(s) missing (total price: 2.356,46; total cost: 1.481,13)
+Profit: 875,33
+
+2019-11-04
+7 order(s) with cost(s) and/or order number(s) missing (total price: 526,92)
+53 order(s) with tracking number(s) missing (total price: 2.325,80; total cost: 1.610,84)
+Profit: 714,96
+
+2019-11-05
+6 order(s) with cost(s) and/or order number(s) missing (total price: 1.137,08)
+57 order(s) with tracking number(s) missing (total price: 3.049,35; total cost: 2.080,01)
+Profit: 969,34
+
+2019-11-06
+5 order(s) with cost(s) and/or order number(s) missing (total price: 151,66)
+49 order(s) with tracking number(s) missing (total price: 2.319,84; total cost: 1.532,28)
+Profit: 787,56
+
+2019-11-07
+3 order(s) with cost(s) and/or order number(s) missing (total price: 635,70)
+54 order(s) with tracking number(s) missing (total price: 2.943,16; total cost: 1.990,67)
+Profit: 952,49
+
+2019-11-08
+10 order(s) with cost(s) and/or order number(s) missing (total price: 392,83)
+73 order(s) with tracking number(s) missing (total price: 3.758,09; total cost: 2.531,01)
+Profit: 1.227,08
+
+2019-11-09
+5 order(s) with cost(s) and/or order number(s) missing (total price: 418,47)
+55 order(s) with tracking number(s) missing (total price: 2.884,69; total cost: 1.923,58)
+Profit: 961,11
+
+2019-11-10
+8 order(s) with cost(s) and/or order number(s) missing (total price: 829,04)
+54 order(s) with tracking number(s) missing (total price: 2.303,27; total cost: 1.476,22)
+Profit: 827,05
+
+2019-11-11
+5 order(s) with cost(s) and/or order number(s) missing (total price: 315,11)
+62 order(s) with tracking number(s) missing (total price: 3.405,83; total cost: 2.303,46)
+Profit: 1.102,37
+
+2019-11-12
+3 order(s) with cost(s) and/or order number(s) missing (total price: 99,63)
+67 order(s) with tracking number(s) missing (total price: 3.428,85; total cost: 2.226,06)
+Profit: 1.202,79
+
+2019-11-13
+7 order(s) with cost(s) and/or order number(s) missing (total price: 336,46)
+42 order(s) with tracking number(s) missing (total price: 2.163,16; total cost: 1.481,97)
+Profit: 681,19
+
+2019-11-14
+7 order(s) with cost(s) and/or order number(s) missing (total price: 754,35)
+57 order(s) with tracking number(s) missing (total price: 2.674,67; total cost: 1.826,77)
+Profit: 847,90
+
+2019-11-15
+7 order(s) with cost(s) and/or order number(s) missing (total price: 229,88)
+65 order(s) with tracking number(s) missing (total price: 3.183,41; total cost: 2.132,62)
+Profit: 1.050,79
+
+2019-11-16
+6 order(s) with cost(s) and/or order number(s) missing (total price: 359,08)
+56 order(s) with tracking number(s) missing (total price: 2.753,07; total cost: 1.944,31)
+Profit: 808,76
+
+2019-11-17
+11 order(s) with cost(s) and/or order number(s) missing (total price: 907,47)
+49 order(s) with tracking number(s) missing (total price: 2.247,80; total cost: 1.507,03)
+Profit: 740,77
+
+2019-11-18
+13 order(s) with cost(s) and/or order number(s) missing (total price: 712,46)
+66 order(s) with tracking number(s) missing (total price: 3.432,60; total cost: 2.422,59)
+Profit: 1.010,01
+
+2019-11-19
+6 order(s) with cost(s) and/or order number(s) missing (total price: 524,29)
+61 order(s) with tracking number(s) missing (total price: 2.618,85; total cost: 1.757,09)
+Profit: 861,76
+
+2019-11-20
+12 order(s) with cost(s) and/or order number(s) missing (total price: 1.783,78)
+59 order(s) with tracking number(s) missing (total price: 2.597,89; total cost: 1.734,79)
+Profit: 863,10
+
+2019-11-21
+9 order(s) with cost(s) and/or order number(s) missing (total price: 703,29)
+62 order(s) with tracking number(s) missing (total price: 2.595,23; total cost: 1.765,25)
+Profit: 829,98
+
+2019-11-22
+7 order(s) with cost(s) and/or order number(s) missing (total price: 627,90)
+52 order(s) with tracking number(s) missing (total price: 1.978,64; total cost: 1.242,16)
+Profit: 736,48
+
+2019-11-23
+10 order(s) with cost(s) and/or order number(s) missing (total price: 658,50)
+54 order(s) with tracking number(s) missing (total price: 2.528,59; total cost: 1.697,30)
+Profit: 831,29
+
+2019-11-24
+18 order(s) with cost(s) and/or order number(s) missing (total price: 808,26)
+78 order(s) with tracking number(s) missing (total price: 3.357,14; total cost: 2.322,70)
+Profit: 1.034,44
+
+2019-11-25
+5 order(s) with cost(s) and/or order number(s) missing (total price: 454,52)
+55 order(s) with tracking number(s) missing (total price: 2.603,53; total cost: 1.791,17)
+Profit: 812,36
+
+2019-11-26
+12 order(s) with cost(s) and/or order number(s) missing (total price: 607,76)
+69 order(s) with tracking number(s) missing (total price: 2.413,11; total cost: 1.486,34)
+Profit: 926,77
+
+2019-11-27
+11 order(s) with cost(s) and/or order number(s) missing (total price: 850,33)
+86 order(s) with tracking number(s) missing (total price: 3.544,55; total cost: 2.359,00)
+Profit: 1.185,55
+
+2019-11-28
+13 order(s) with cost(s) and/or order number(s) missing (total price: 820,44)
+49 order(s) with tracking number(s) missing (total price: 1.862,21; total cost: 1.188,10)
+Profit: 674,11
+
+2019-11-29
+14 order(s) with cost(s) and/or order number(s) missing (total price: 973,47)
+98 order(s) with tracking number(s) missing (total price: 3.991,66; total cost: 2.721,68)
+Profit: 1.269,98
+
+2019-11-30
+20 order(s) with cost(s) and/or order number(s) missing (total price: 1.750,16)
+93 order(s) with tracking number(s) missing (total price: 4.052,89; total cost: 2.747,43)
+Profit: 1.305,46
+
+2019-12-01
+12 order(s) with cost(s) and/or order number(s) missing (total price: 862,14)
+87 order(s) with tracking number(s) missing (total price: 3.454,61; total cost: 2.296,67)
+Profit: 1.157,94
+
+2019-12-02
+26 order(s) with cost(s) and/or order number(s) missing (total price: 1.016,74)
+125 order(s) with tracking number(s) missing (total price: 4.972,98; total cost: 3.293,72)
+Profit: 1.679,26
+
+2019-12-03
+29 order(s) with cost(s) and/or order number(s) missing (total price: 1.373,41)
+95 order(s) with tracking number(s) missing (total price: 3.094,52; total cost: 2.006,97)
+Profit: 1.087,55
+
+2019-12-04
+14 order(s) with cost(s) and/or order number(s) missing (total price: 1.876,91)
+85 order(s) with tracking number(s) missing (total price: 3.352,72; total cost: 2.250,28)
+Profit: 1.102,44
+
+2019-12-05
+18 order(s) with cost(s) and/or order number(s) missing (total price: 1.659,74)
+83 order(s) with tracking number(s) missing (total price: 3.805,61; total cost: 2.502,38)
+Profit: 1.303,23
+
+2019-12-06
+19 order(s) with cost(s) and/or order number(s) missing (total price: 1.741,16)
+102 order(s) with tracking number(s) missing (total price: 4.317,92; total cost: 2.955,89)
+Profit: 1.362,03
+
+2019-12-07
+15 order(s) with cost(s) and/or order number(s) missing (total price: 1.055,14)
+76 order(s) with tracking number(s) missing (total price: 2.978,20; total cost: 2.019,41)
+Profit: 958,79
+
+2019-12-08
+19 order(s) with cost(s) and/or order number(s) missing (total price: 1.120,05)
+84 order(s) with tracking number(s) missing (total price: 3.464,84; total cost: 2.344,11)
+Profit: 1.120,73
+
+2019-12-09
+18 order(s) with cost(s) and/or order number(s) missing (total price: 1.271,34)
+94 order(s) with tracking number(s) missing (total price: 4.350,64; total cost: 2.876,79)
+Profit: 1.473,85
+
+2019-12-10
+20 order(s) with cost(s) and/or order number(s) missing (total price: 1.625,55)
+100 order(s) with tracking number(s) missing (total price: 4.062,61; total cost: 2.759,58)
+Profit: 1.303,03
+
+2019-12-11
+20 order(s) with cost(s) and/or order number(s) missing (total price: 1.554,80)
+112 order(s) with tracking number(s) missing (total price: 4.245,92; total cost: 2.805,02)
+Profit: 1.440,90
+
+2019-12-12
+36 order(s) with cost(s) and/or order number(s) missing (total price: 3.211,78)
+127 order(s) with tracking number(s) missing (total price: 5.148,20; total cost: 3.489,10)
+Profit: 1.659,10
+
+2019-12-13
+55 order(s) with cost(s) and/or order number(s) missing (total price: 4.354,19)
+146 order(s) with tracking number(s) missing (total price: 6.045,43; total cost: 4.172,79)
+Profit: 1.872,64
+
+2019-12-14
+72 order(s) with cost(s) and/or order number(s) missing (total price: 5.017,72)
+154 order(s) with tracking number(s) missing (total price: 5.888,63; total cost: 3.983,60)
+Profit: 1.905,03
+
+2019-12-15
+86 order(s) with cost(s) and/or order number(s) missing (total price: 5.214,96)
+186 order(s) with tracking number(s) missing (total price: 6.888,27; total cost: 4.782,76)
+Profit: 2.105,51
+
+2019-12-16
+118 order(s) with cost(s) and/or order number(s) missing (total price: 7.745,05)
+168 order(s) with tracking number(s) missing (total price: 7.255,03; total cost: 5.108,97)
+Profit: 2.146,06
+
+2019-12-17
+88 order(s) with cost(s) and/or order number(s) missing (total price: 5.956,95)
+159 order(s) with tracking number(s) missing (total price: 7.100,47; total cost: 4.927,96)
+Profit: 2.172,51
+
+2019-12-18
+95 order(s) with cost(s) and/or order number(s) missing (total price: 5.594,15)
+191 order(s) with tracking number(s) missing (total price: 7.957,46; total cost: 5.556,42)
+Profit: 2.401,04
+
+2019-12-19
+84 order(s) with cost(s) and/or order number(s) missing (total price: 5.915,21)
+170 order(s) with tracking number(s) missing (total price: 7.187,61; total cost: 4.969,53)
+Profit: 2.218,08
+
+2019-12-20
+62 order(s) with cost(s) and/or order number(s) missing (total price: 4.335,64)
+165 order(s) with tracking number(s) missing (total price: 7.078,90; total cost: 4.754,69)
+Profit: 2.324,21
+
+2019-12-21
+56 order(s) with cost(s) and/or order number(s) missing (total price: 3.168,19)
+146 order(s) with tracking number(s) missing (total price: 6.812,08; total cost: 4.598,08)
+Profit: 2.214,00
+
+2019-12-22
+31 order(s) with cost(s) and/or order number(s) missing (total price: 2.080,01)
+108 order(s) with tracking number(s) missing (total price: 4.505,21; total cost: 3.068,56)
+Profit: 1.436,65
+
+2019-12-23
+27 order(s) with cost(s) and/or order number(s) missing (total price: 2.657,33)
+94 order(s) with tracking number(s) missing (total price: 3.893,73; total cost: 2.569,83)
+Profit: 1.323,90
+
+2019-12-24
+15 order(s) with cost(s) and/or order number(s) missing (total price: 935,18)
+78 order(s) with tracking number(s) missing (total price: 2.938,74; total cost: 1.949,56)
+Profit: 989,18
+
+2019-12-25
+12 order(s) with cost(s) and/or order number(s) missing (total price: 651,43)
+95 order(s) with tracking number(s) missing (total price: 3.965,91; total cost: 2.550,98)
+Profit: 1.414,93
+
+2019-12-26
+18 order(s) with cost(s) and/or order number(s) missing (total price: 1.219,86)
+104 order(s) with tracking number(s) missing (total price: 4.052,49; total cost: 2.679,66)
+Profit: 1.372,83
+
+2019-12-27
+21 order(s) with cost(s) and/or order number(s) missing (total price: 1.997,51)
+101 order(s) with tracking number(s) missing (total price: 4.259,47; total cost: 2.948,14)
+Profit: 1.311,33
+
+2019-12-28
+27 order(s) with cost(s) and/or order number(s) missing (total price: 1.870,91)
+107 order(s) with tracking number(s) missing (total price: 4.005,68; total cost: 2.600,54)
+Profit: 1.405,14
+
+2019-12-29
+17 order(s) with cost(s) and/or order number(s) missing (total price: 769,08)
+114 order(s) with tracking number(s) missing (total price: 4.338,31; total cost: 2.867,13)
+Profit: 1.471,18
+
+2019-12-30
+12 order(s) with cost(s) and/or order number(s) missing (total price: 757,81)
+96 order(s) with tracking number(s) missing (total price: 4.058,95; total cost: 2.684,90)
+Profit: 1.374,05
+
+2019-12-31
+14 order(s) with cost(s) and/or order number(s) missing (total price: 638,66)
+85 order(s) with tracking number(s) missing (total price: 3.177,57; total cost: 2.120,45)
+Profit: 1.057,12
+
+2020-01-01
+16 order(s) with cost(s) and/or order number(s) missing (total price: 780,39)
+93 order(s) with tracking number(s) missing (total price: 3.010,81; total cost: 1.916,76)
+Profit: 1.094,05
+
+2020-01-02
+13 order(s) with cost(s) and/or order number(s) missing (total price: 961,39)
+116 order(s) with tracking number(s) missing (total price: 4.676,63; total cost: 3.073,34)
+Profit: 1.603,29
+
+2020-01-03
+16 order(s) with cost(s) and/or order number(s) missing (total price: 618,63)
+107 order(s) with tracking number(s) missing (total price: 4.437,78; total cost: 2.866,87)
+Profit: 1.570,91
+
+2020-01-04
+14 order(s) with cost(s) and/or order number(s) missing (total price: 1.160,07)
+106 order(s) with tracking number(s) missing (total price: 4.434,70; total cost: 2.979,32)
+Profit: 1.455,38
+
+2020-01-05
+8 order(s) with cost(s) and/or order number(s) missing (total price: 489,55)
+109 order(s) with tracking number(s) missing (total price: 4.077,32; total cost: 2.638,39)
+Profit: 1.438,93
+
+2020-01-06
+8 order(s) with cost(s) and/or order number(s) missing (total price: 487,60)
+134 order(s) with tracking number(s) missing (total price: 4.660,20; total cost: 2.956,41)
+Profit: 1.703,79
+
+2020-01-07
+14 order(s) with cost(s) and/or order number(s) missing (total price: 956,45)
+141 order(s) with tracking number(s) missing (total price: 5.588,79; total cost: 3.695,89)
+Profit: 1.892,90
+
+2020-01-08
+11 order(s) with cost(s) and/or order number(s) missing (total price: 690,66)
+139 order(s) with tracking number(s) missing (total price: 5.562,08; total cost: 3.597,17)
+Profit: 1.964,91
+
+2020-01-09
+11 order(s) with cost(s) and/or order number(s) missing (total price: 515,14)
+131 order(s) with tracking number(s) missing (total price: 4.851,87; total cost: 3.154,85)
+Profit: 1.697,02
+
+2020-01-10
+13 order(s) with cost(s) and/or order number(s) missing (total price: 783,96)
+142 order(s) with tracking number(s) missing (total price: 5.125,15; total cost: 3.229,67)
+Profit: 1.895,48
+
+2020-01-11
+12 order(s) with cost(s) and/or order number(s) missing (total price: 674,92)
+104 order(s) with tracking number(s) missing (total price: 4.400,54; total cost: 2.926,03)
+Profit: 1.474,51
+
+2020-01-12
+14 order(s) with cost(s) and/or order number(s) missing (total price: 601,87)
+146 order(s) with tracking number(s) missing (total price: 5.483,60; total cost: 3.293,57)
+Profit: 2.190,03
+
+2020-01-13
+17 order(s) with cost(s) and/or order number(s) missing (total price: 1.325,91)
+182 order(s) with tracking number(s) missing (total price: 7.294,64; total cost: 4.653,42)
+Profit: 2.641,22
+
+2020-01-14
+11 order(s) with cost(s) and/or order number(s) missing (total price: 555,18)
+163 order(s) with tracking number(s) missing (total price: 5.885,98; total cost: 3.799,03)
+Profit: 2.086,95
+
+2020-01-15
+15 order(s) with cost(s) and/or order number(s) missing (total price: 1.585,84)
+153 order(s) with tracking number(s) missing (total price: 5.787,28; total cost: 3.850,81)
+Profit: 1.936,47
+
+2020-01-16
+12 order(s) with cost(s) and/or order number(s) missing (total price: 522,66)
+168 order(s) with tracking number(s) missing (total price: 7.268,23; total cost: 4.714,17)
+Profit: 2.554,06
+
+2020-01-17
+18 order(s) with cost(s) and/or order number(s) missing (total price: 1.162,39)
+144 order(s) with tracking number(s) missing (total price: 5.564,78; total cost: 3.640,94)
+Profit: 1.923,84
+
+2020-01-18
+7 order(s) with cost(s) and/or order number(s) missing (total price: 258,54)
+126 order(s) with tracking number(s) missing (total price: 5.000,95; total cost: 3.351,21)
+Profit: 1.649,74
+
+2020-01-19
+16 order(s) with cost(s) and/or order number(s) missing (total price: 1.310,59)
+123 order(s) with tracking number(s) missing (total price: 5.048,61; total cost: 3.355,62)
+Profit: 1.692,99
+
+2020-01-20
+14 order(s) with cost(s) and/or order number(s) missing (total price: 742,00)
+122 order(s) with tracking number(s) missing (total price: 4.374,83; total cost: 2.799,19)
+Profit: 1.575,64
+
+2020-01-21
+20 order(s) with cost(s) and/or order number(s) missing (total price: 998,90)
+156 order(s) with tracking number(s) missing (total price: 5.945,89; total cost: 3.884,60)
+Profit: 2.061,29
+
+2020-01-22
+19 order(s) with cost(s) and/or order number(s) missing (total price: 1.046,37)
+154 order(s) with tracking number(s) missing (total price: 5.819,30; total cost: 3.857,54)
+Profit: 1.961,76
+
+2020-01-23
+22 order(s) with cost(s) and/or order number(s) missing (total price: 1.569,58)
+137 order(s) with tracking number(s) missing (total price: 5.514,68; total cost: 3.435,71)
+Profit: 2.078,97
+
+2020-01-24
+24 order(s) with cost(s) and/or order number(s) missing (total price: 1.359,76)
+155 order(s) with tracking number(s) missing (total price: 6.269,57; total cost: 4.024,54)
+Profit: 2.245,03
+
+2020-01-25
+16 order(s) with cost(s) and/or order number(s) missing (total price: 1.104,81)
+110 order(s) with tracking number(s) missing (total price: 4.619,50; total cost: 3.112,11)
+Profit: 1.507,39
+
+2020-01-26
+108 order(s) with cost(s) and/or order number(s) missing (total price: 7.084,09)
+111 order(s) with tracking number(s) missing (total price: 4.110,55; total cost: 2.699,87)
+Profit: 1.410,68
+
+2020-01-27
+55 order(s) with cost(s) and/or order number(s) missing (total price: 3.219,55)
+187 order(s) with tracking number(s) missing (total price: 7.338,08; total cost: 4.833,79)
+Profit: 2.504,29
+
+2020-01-28
+17 order(s) with cost(s) and/or order number(s) missing (total price: 1.007,99)
+156 order(s) with tracking number(s) missing (total price: 6.517,27; total cost: 4.275,47)
+Profit: 2.241,80
+
+2020-01-29
+24 order(s) with cost(s) and/or order number(s) missing (total price: 1.562,29)
+131 order(s) with tracking number(s) missing (total price: 5.864,17; total cost: 3.882,64)
+Profit: 1.981,53
+
+2020-01-30
+14 order(s) with cost(s) and/or order number(s) missing (total price: 1.004,61)
+133 order(s) with tracking number(s) missing (total price: 6.057,33; total cost: 4.058,06)
+Profit: 1.999,27
+
+2020-01-31
+4 order(s) with cost(s) and/or order number(s) missing (total price: 188,85)
+143 order(s) with tracking number(s) missing (total price: 5.979,54; total cost: 3.954,67)
+Profit: 2.024,87
+
+2020-02-01
+14 order(s) with cost(s) and/or order number(s) missing (total price: 1.078,27)
+136 order(s) with tracking number(s) missing (total price: 5.022,29; total cost: 3.253,26)
+Profit: 1.769,03
+
+2020-02-02
+5 order(s) with cost(s) and/or order number(s) missing (total price: 250,91)
+119 order(s) with tracking number(s) missing (total price: 4.463,00; total cost: 2.912,45)
+Profit: 1.550,55
+
+2020-02-03
+11 order(s) with cost(s) and/or order number(s) missing (total price: 929,66)
+125 order(s) with tracking number(s) missing (total price: 5.025,56; total cost: 3.410,47)
+Profit: 1.615,09
+
+2020-02-04
+13 order(s) with cost(s) and/or order number(s) missing (total price: 678,58)
+135 order(s) with tracking number(s) missing (total price: 5.807,74; total cost: 3.855,35)
+Profit: 1.952,39
+
+2020-02-05
+13 order(s) with cost(s) and/or order number(s) missing (total price: 1.131,45)
+159 order(s) with tracking number(s) missing (total price: 6.803,43; total cost: 4.611,32)
+Profit: 2.192,11
+
+2020-02-06
+10 order(s) with cost(s) and/or order number(s) missing (total price: 1.079,52)
+113 order(s) with tracking number(s) missing (total price: 4.268,39; total cost: 2.788,29)
+Profit: 1.480,10
+
+2020-02-07
+9 order(s) with cost(s) and/or order number(s) missing (total price: 966,29)
+123 order(s) with tracking number(s) missing (total price: 5.620,75; total cost: 3.726,38)
+Profit: 1.894,37
+
+2020-02-08
+10 order(s) with cost(s) and/or order number(s) missing (total price: 350,09)
+111 order(s) with tracking number(s) missing (total price: 4.995,89; total cost: 3.373,99)
+Profit: 1.621,90
+
+2020-02-09
+15 order(s) with cost(s) and/or order number(s) missing (total price: 1.070,04)
+129 order(s) with tracking number(s) missing (total price: 5.028,40; total cost: 3.348,01)
+Profit: 1.680,39
+
+2020-02-10
+12 order(s) with cost(s) and/or order number(s) missing (total price: 659,00)
+117 order(s) with tracking number(s) missing (total price: 4.777,10; total cost: 3.162,45)
+Profit: 1.614,65
+
+2020-02-11
+21 order(s) with cost(s) and/or order number(s) missing (total price: 1.712,83)
+119 order(s) with tracking number(s) missing (total price: 5.183,01; total cost: 3.421,24)
+Profit: 1.761,77
+
+2020-02-12
+12 order(s) with cost(s) and/or order number(s) missing (total price: 1.509,32)
+133 order(s) with tracking number(s) missing (total price: 5.441,63; total cost: 3.696,82)
+Profit: 1.744,81
+
+2020-02-13
+21 order(s) with cost(s) and/or order number(s) missing (total price: 1.456,49)
+104 order(s) with tracking number(s) missing (total price: 4.627,30; total cost: 3.078,89)
+Profit: 1.548,41
+
+2020-02-14
+11 order(s) with cost(s) and/or order number(s) missing (total price: 640,31)
+82 order(s) with tracking number(s) missing (total price: 3.090,89; total cost: 2.056,24)
+Profit: 1.034,65
+
+2020-02-15
+14 order(s) with cost(s) and/or order number(s) missing (total price: 702,75)
+77 order(s) with tracking number(s) missing (total price: 3.417,14; total cost: 2.268,64)
+Profit: 1.148,50
+
+2020-02-16
+10 order(s) with cost(s) and/or order number(s) missing (total price: 713,87)
+93 order(s) with tracking number(s) missing (total price: 3.357,30; total cost: 2.198,05)
+Profit: 1.159,25
+
+2020-02-17
+5 order(s) with cost(s) and/or order number(s) missing (total price: 364,63)
+71 order(s) with tracking number(s) missing (total price: 2.394,72; total cost: 1.536,99)
+Profit: 857,73
+
+2020-02-18
+8 order(s) with cost(s) and/or order number(s) missing (total price: 598,97)
+97 order(s) with tracking number(s) missing (total price: 4.285,33; total cost: 2.809,16)
+Profit: 1.476,17
+
+2020-02-19
+6 order(s) with cost(s) and/or order number(s) missing (total price: 480,87)
+80 order(s) with tracking number(s) missing (total price: 3.486,79; total cost: 2.376,81)
+Profit: 1.109,98
+
+2020-02-20
+3 order(s) with cost(s) and/or order number(s) missing (total price: 472,01)
+84 order(s) with tracking number(s) missing (total price: 3.808,48; total cost: 2.493,02)
+Profit: 1.315,46
+
+2020-02-21
+9 order(s) with cost(s) and/or order number(s) missing (total price: 493,61)
+85 order(s) with tracking number(s) missing (total price: 3.315,69; total cost: 2.156,54)
+Profit: 1.159,15
+
+2020-02-22
+11 order(s) with cost(s) and/or order number(s) missing (total price: 1.086,75)
+73 order(s) with tracking number(s) missing (total price: 2.716,78; total cost: 1.770,64)
+Profit: 946,14
+
+2020-02-23
+9 order(s) with cost(s) and/or order number(s) missing (total price: 756,40)
+69 order(s) with tracking number(s) missing (total price: 2.754,50; total cost: 1.789,83)
+Profit: 964,67
+
+2020-02-24
+12 order(s) with cost(s) and/or order number(s) missing (total price: 1.103,73)
+74 order(s) with tracking number(s) missing (total price: 2.984,13; total cost: 1.853,91)
+Profit: 1.130,22
+
+2020-02-25
+11 order(s) with cost(s) and/or order number(s) missing (total price: 668,55)
+80 order(s) with tracking number(s) missing (total price: 3.085,49; total cost: 1.879,43)
+Profit: 1.206,06
+
+2020-02-26
+16 order(s) with cost(s) and/or order number(s) missing (total price: 1.109,12)
+82 order(s) with tracking number(s) missing (total price: 3.745,89; total cost: 2.398,03)
+Profit: 1.347,86
+
+2020-02-27
+11 order(s) with cost(s) and/or order number(s) missing (total price: 738,50)
+75 order(s) with tracking number(s) missing (total price: 2.884,22; total cost: 1.792,48)
+Profit: 1.091,74
+
+2020-02-28
+14 order(s) with cost(s) and/or order number(s) missing (total price: 617,32)
+93 order(s) with tracking number(s) missing (total price: 4.656,72; total cost: 3.005,67)
+Profit: 1.651,05
+
+2020-02-29
+7 order(s) with cost(s) and/or order number(s) missing (total price: 535,13)
+60 order(s) with tracking number(s) missing (total price: 2.559,91; total cost: 1.526,26)
+Profit: 1.033,65
+
+2020-03-01
+8 order(s) with cost(s) and/or order number(s) missing (total price: 926,60)
+63 order(s) with tracking number(s) missing (total price: 2.774,90; total cost: 1.722,86)
+Profit: 1.052,04
+
+2020-03-02
+13 order(s) with cost(s) and/or order number(s) missing (total price: 739,65)
+76 order(s) with tracking number(s) missing (total price: 2.910,83; total cost: 1.732,55)
+Profit: 1.178,28
+
+2020-03-03
+6 order(s) with cost(s) and/or order number(s) missing (total price: 646,78)
+66 order(s) with tracking number(s) missing (total price: 2.441,65; total cost: 1.469,06)
+Profit: 972,59
+
+2020-03-04
+5 order(s) with cost(s) and/or order number(s) missing (total price: 449,97)
+73 order(s) with tracking number(s) missing (total price: 3.346,87; total cost: 2.096,40)
+Profit: 1.250,47
+
+2020-03-05
+7 order(s) with cost(s) and/or order number(s) missing (total price: 670,74)
+79 order(s) with tracking number(s) missing (total price: 3.425,55; total cost: 2.058,14)
+Profit: 1.367,41
+
+2020-03-06
+13 order(s) with cost(s) and/or order number(s) missing (total price: 896,07)
+69 order(s) with tracking number(s) missing (total price: 4.871,38; total cost: 3.283,33)
+Profit: 1.588,05
+
+2020-03-07
+15 order(s) with cost(s) and/or order number(s) missing (total price: 1.313,10)
+73 order(s) with tracking number(s) missing (total price: 3.551,33; total cost: 2.242,26)
+Profit: 1.309,07
+
+2020-03-08
+8 order(s) with cost(s) and/or order number(s) missing (total price: 350,34)
+81 order(s) with tracking number(s) missing (total price: 2.987,61; total cost: 1.819,39)
+Profit: 1.168,22
+
+2020-03-09
+10 order(s) with cost(s) and/or order number(s) missing (total price: 777,37)
+75 order(s) with tracking number(s) missing (total price: 2.984,69; total cost: 1.848,54)
+Profit: 1.136,15
+
+2020-03-10
+14 order(s) with cost(s) and/or order number(s) missing (total price: 790,98)
+66 order(s) with tracking number(s) missing (total price: 2.705,66; total cost: 1.673,11)
+Profit: 1.032,55
+
+2020-03-11
+5 order(s) with cost(s) and/or order number(s) missing (total price: 241,34)
+74 order(s) with tracking number(s) missing (total price: 3.063,52; total cost: 1.880,57)
+Profit: 1.182,95
+
+2020-03-12
+13 order(s) with cost(s) and/or order number(s) missing (total price: 1.250,75)
+61 order(s) with tracking number(s) missing (total price: 2.118,81; total cost: 1.246,36)
+Profit: 872,45
+
+2020-03-13
+4 order(s) with cost(s) and/or order number(s) missing (total price: 284,65)
+43 order(s) with tracking number(s) missing (total price: 1.931,38; total cost: 1.198,46)
+Profit: 732,92
+
+2020-03-14
+15 order(s) with cost(s) and/or order number(s) missing (total price: 1.080,12)
+29 order(s) with tracking number(s) missing (total price: 1.048,01; total cost: 599,70)
+Profit: 448,31
+
+2020-03-15
+8 order(s) with cost(s) and/or order number(s) missing (total price: 483,90)
+35 order(s) with tracking number(s) missing (total price: 1.177,66; total cost: 697,71)
+Profit: 479,95
+
+2020-03-16
+9 order(s) with cost(s) and/or order number(s) missing (total price: 415,76)
+48 order(s) with tracking number(s) missing (total price: 1.513,08; total cost: 867,64)
+Profit: 645,44
+
+2020-03-17
+6 order(s) with cost(s) and/or order number(s) missing (total price: 503,03)
+37 order(s) with tracking number(s) missing (total price: 1.637,73; total cost: 978,61)
+Profit: 659,12
+
+2020-03-18
+12 order(s) with cost(s) and/or order number(s) missing (total price: 1.282,26)
+44 order(s) with tracking number(s) missing (total price: 1.917,63; total cost: 1.213,72)
+Profit: 703,91
+
+2020-03-19
+8 order(s) with cost(s) and/or order number(s) missing (total price: 533,08)
+48 order(s) with tracking number(s) missing (total price: 1.827,99; total cost: 1.073,16)
+Profit: 754,83
+
+2020-03-20
+6 order(s) with cost(s) and/or order number(s) missing (total price: 280,37)
+38 order(s) with tracking number(s) missing (total price: 1.077,98; total cost: 618,39)
+Profit: 459,59
+
+2020-03-21
+14 order(s) with cost(s) and/or order number(s) missing (total price: 659,89)
+50 order(s) with tracking number(s) missing (total price: 2.103,88; total cost: 1.303,00)
+Profit: 800,88
+
+2020-03-22
+4 order(s) with cost(s) and/or order number(s) missing (total price: 107,38)
+65 order(s) with tracking number(s) missing (total price: 2.526,19; total cost: 1.582,79)
+Profit: 943,40
+
+2020-03-23
+2 valid order(s) (total price: 87,80; total cost: 50,38)
+15 order(s) with cost(s) and/or order number(s) missing (total price: 1.139,64)
+62 order(s) with tracking number(s) missing (total price: 2.358,20; total cost: 1.439,93)
+Profit: 955,69
+
+2020-03-24
+2 valid order(s) (total price: 53,94; total cost: 31,14)
+12 order(s) with cost(s) and/or order number(s) missing (total price: 817,98)
+65 order(s) with tracking number(s) missing (total price: 2.516,53; total cost: 1.523,37)
+Profit: 1.015,96
+
+2020-03-25
+8 valid order(s) (total price: 419,02; total cost: 262,67)
+9 order(s) with cost(s) and/or order number(s) missing (total price: 492,00)
+39 order(s) with tracking number(s) missing (total price: 1.384,89; total cost: 869,18)
+Profit: 672,06
+
+2020-03-26
+10 valid order(s) (total price: 502,32; total cost: 323,55)
+6 order(s) with cost(s) and/or order number(s) missing (total price: 487,36)
+32 order(s) with tracking number(s) missing (total price: 1.259,90; total cost: 797,71)
+Profit: 640,96
+
+2020-03-27
+11 valid order(s) (total price: 377,35; total cost: 203,41)
+4 order(s) with cost(s) and/or order number(s) missing (total price: 209,74)
+42 order(s) with tracking number(s) missing (total price: 2.116,78; total cost: 1.403,00)
+Profit: 887,72
+
+2020-03-28
+4 valid order(s) (total price: 178,52; total cost: 93,17)
+12 order(s) with cost(s) and/or order number(s) missing (total price: 952,51)
+30 order(s) with tracking number(s) missing (total price: 1.497,72; total cost: 996,87)
+Profit: 586,20
+
+2020-03-29
+4 valid order(s) (total price: 127,55; total cost: 88,61)
+8 order(s) with cost(s) and/or order number(s) missing (total price: 320,40)
+27 order(s) with tracking number(s) missing (total price: 1.243,89; total cost: 769,06)
+Profit: 513,77
+
+2020-03-30
+7 valid order(s) (total price: 182,96; total cost: 105,35)
+15 order(s) with cost(s) and/or order number(s) missing (total price: 666,58)
+47 order(s) with tracking number(s) missing (total price: 1.822,23; total cost: 1.153,19)
+Profit: 746,65
+
+2020-03-31
+7 valid order(s) (total price: 278,91; total cost: 179,27)
+10 order(s) with cost(s) and/or order number(s) missing (total price: 755,24)
+52 order(s) with tracking number(s) missing (total price: 1.872,98; total cost: 1.137,07)
+Profit: 835,55
+
+2020-04-01
+3 valid order(s) (total price: 134,53; total cost: 79,62)
+23 order(s) with cost(s) and/or order number(s) missing (total price: 1.393,29)
+65 order(s) with tracking number(s) missing (total price: 2.723,96; total cost: 1.678,19)
+Profit: 1.100,68
+
+2020-04-02
+3 valid order(s) (total price: 151,81; total cost: 96,16)
+23 order(s) with cost(s) and/or order number(s) missing (total price: 1.680,76)
+58 order(s) with tracking number(s) missing (total price: 2.263,16; total cost: 1.390,50)
+Profit: 928,31
+
+2020-04-03
+4 valid order(s) (total price: 150,78; total cost: 99,59)
+40 order(s) with cost(s) and/or order number(s) missing (total price: 2.193,92)
+71 order(s) with tracking number(s) missing (total price: 3.028,53; total cost: 1.801,73)
+Profit: 1.277,99
+
+2020-04-04
+3 valid order(s) (total price: 135,95; total cost: 132,92)
+12 order(s) with cost(s) and/or order number(s) missing (total price: 589,72)
+87 order(s) with tracking number(s) missing (total price: 3.287,31; total cost: 2.077,93)
+Profit: 1.212,41
+
+2020-04-05
+11 order(s) with cost(s) and/or order number(s) missing (total price: 446,53)
+91 order(s) with tracking number(s) missing (total price: 3.947,10; total cost: 2.510,86)
+Profit: 1.436,24
+
+2020-04-06
+21 order(s) with cost(s) and/or order number(s) missing (total price: 938,67)
+83 order(s) with tracking number(s) missing (total price: 3.199,82; total cost: 1.881,16)
+Profit: 1.318,66
+
+2020-04-07
+15 order(s) with cost(s) and/or order number(s) missing (total price: 804,33)
+80 order(s) with tracking number(s) missing (total price: 3.467,80; total cost: 2.173,17)
+Profit: 1.294,63
+
+2020-04-08
+14 order(s) with cost(s) and/or order number(s) missing (total price: 577,07)
+91 order(s) with tracking number(s) missing (total price: 3.890,92; total cost: 2.451,77)
+Profit: 1.439,15
+
+2020-04-09
+22 order(s) with cost(s) and/or order number(s) missing (total price: 1.339,34)
+82 order(s) with tracking number(s) missing (total price: 3.475,23; total cost: 2.222,96)
+Profit: 1.252,27
+
+2020-04-10
+26 order(s) with cost(s) and/or order number(s) missing (total price: 1.272,47)
+85 order(s) with tracking number(s) missing (total price: 3.058,95; total cost: 1.761,55)
+Profit: 1.297,40
+
+2020-04-11
+22 order(s) with cost(s) and/or order number(s) missing (total price: 784,30)
+76 order(s) with tracking number(s) missing (total price: 3.381,52; total cost: 2.171,70)
+Profit: 1.209,82
+
+2020-04-12
+19 order(s) with cost(s) and/or order number(s) missing (total price: 1.501,14)
+68 order(s) with tracking number(s) missing (total price: 2.668,79; total cost: 1.672,28)
+Profit: 996,51
+
+2020-04-13
+12 order(s) with cost(s) and/or order number(s) missing (total price: 1.028,15)
+90 order(s) with tracking number(s) missing (total price: 3.882,17; total cost: 2.431,80)
+Profit: 1.450,37
+
+2020-04-14
+25 order(s) with cost(s) and/or order number(s) missing (total price: 1.234,81)
+84 order(s) with tracking number(s) missing (total price: 3.412,22; total cost: 2.145,34)
+Profit: 1.266,88
+
+2020-04-15
+19 order(s) with cost(s) and/or order number(s) missing (total price: 1.305,40)
+111 order(s) with tracking number(s) missing (total price: 4.342,12; total cost: 2.713,75)
+Profit: 1.628,37
+
+2020-04-16
+14 order(s) with cost(s) and/or order number(s) missing (total price: 1.155,98)
+104 order(s) with tracking number(s) missing (total price: 4.636,23; total cost: 2.843,85)
+Profit: 1.792,38
+
+2020-04-17
+13 order(s) with cost(s) and/or order number(s) missing (total price: 815,46)
+91 order(s) with tracking number(s) missing (total price: 3.914,86; total cost: 2.478,71)
+Profit: 1.436,15
+
+2020-04-18
+12 order(s) with cost(s) and/or order number(s) missing (total price: 832,11)
+95 order(s) with tracking number(s) missing (total price: 3.805,40; total cost: 2.345,68)
+Profit: 1.459,72
+
+2020-04-19
+10 order(s) with cost(s) and/or order number(s) missing (total price: 812,05)
+101 order(s) with tracking number(s) missing (total price: 4.430,38; total cost: 2.732,67)
+Profit: 1.697,71
+
+2020-04-20
+17 order(s) with cost(s) and/or order number(s) missing (total price: 1.110,23)
+100 order(s) with tracking number(s) missing (total price: 4.296,60; total cost: 2.660,54)
+Profit: 1.636,06
+
+2020-04-21
+15 order(s) with cost(s) and/or order number(s) missing (total price: 1.018,42)
+112 order(s) with tracking number(s) missing (total price: 5.179,38; total cost: 3.321,60)
+Profit: 1.857,78
+
+2020-04-22
+18 order(s) with cost(s) and/or order number(s) missing (total price: 809,16)
+102 order(s) with tracking number(s) missing (total price: 4.219,83; total cost: 2.677,05)
+Profit: 1.542,78
+
+2020-04-23
+14 order(s) with cost(s) and/or order number(s) missing (total price: 639,73)
+94 order(s) with tracking number(s) missing (total price: 4.251,19; total cost: 2.687,61)
+Profit: 1.563,58
+
+2020-04-24
+16 order(s) with cost(s) and/or order number(s) missing (total price: 683,94)
+86 order(s) with tracking number(s) missing (total price: 3.693,98; total cost: 2.271,79)
+Profit: 1.422,19
+
+2020-04-25
+16 order(s) with cost(s) and/or order number(s) missing (total price: 694,28)
+108 order(s) with tracking number(s) missing (total price: 4.461,04; total cost: 2.842,07)
+Profit: 1.618,97
+
+2020-04-26
+16 order(s) with cost(s) and/or order number(s) missing (total price: 774,89)
+81 order(s) with tracking number(s) missing (total price: 3.559,98; total cost: 2.222,85)
+Profit: 1.337,13
+
+2020-04-27
+21 order(s) with cost(s) and/or order number(s) missing (total price: 999,52)
+74 order(s) with tracking number(s) missing (total price: 3.009,97; total cost: 1.829,21)
+Profit: 1.180,76
+
+2020-04-28
+23 order(s) with cost(s) and/or order number(s) missing (total price: 1.177,97)
+61 order(s) with tracking number(s) missing (total price: 2.601,66; total cost: 1.647,27)
+Profit: 954,39
+
+2020-04-29
+19 order(s) with cost(s) and/or order number(s) missing (total price: 946,76)
+64 order(s) with tracking number(s) missing (total price: 2.541,37; total cost: 1.597,83)
+Profit: 943,54
+
+2020-04-30
+32 order(s) with cost(s) and/or order number(s) missing (total price: 1.628,13)
+45 order(s) with tracking number(s) missing (total price: 1.862,69; total cost: 1.143,19)
+Profit: 719,50
+
+2020-05-01
+18 order(s) with cost(s) and/or order number(s) missing (total price: 1.056,44)
+67 order(s) with tracking number(s) missing (total price: 2.830,72; total cost: 1.695,38)
+Profit: 1.135,34
+
+2020-05-02
+9 order(s) with cost(s) and/or order number(s) missing (total price: 548,65)
+76 order(s) with tracking number(s) missing (total price: 3.413,77; total cost: 2.220,42)
+Profit: 1.193,35
+
+2020-05-03
+8 order(s) with cost(s) and/or order number(s) missing (total price: 284,65)
+58 order(s) with tracking number(s) missing (total price: 2.468,19; total cost: 1.614,89)
+Profit: 853,30
+
+2020-05-04
+9 order(s) with cost(s) and/or order number(s) missing (total price: 343,85)
+60 order(s) with tracking number(s) missing (total price: 2.524,65; total cost: 1.636,86)
+Profit: 887,79
+
+2020-05-05
+4 order(s) with cost(s) and/or order number(s) missing (total price: 127,59)
+43 order(s) with tracking number(s) missing (total price: 1.916,73; total cost: 1.259,13)
+Profit: 657,60
+
+2020-05-06
+8 order(s) with cost(s) and/or order number(s) missing (total price: 393,11)
+61 order(s) with tracking number(s) missing (total price: 2.563,42; total cost: 1.597,36)
+Profit: 966,06
+
+2020-05-07
+9 order(s) with cost(s) and/or order number(s) missing (total price: 422,66)
+49 order(s) with tracking number(s) missing (total price: 2.731,96; total cost: 1.849,77)
+Profit: 882,19
+
+2020-05-08
+8 order(s) with cost(s) and/or order number(s) missing (total price: 615,47)
+74 order(s) with tracking number(s) missing (total price: 3.320,24; total cost: 2.127,78)
+Profit: 1.192,46
+
+2020-05-09
+13 order(s) with cost(s) and/or order number(s) missing (total price: 565,74)
+71 order(s) with tracking number(s) missing (total price: 3.110,19; total cost: 1.979,16)
+Profit: 1.131,03
+
+2020-05-10
+12 order(s) with cost(s) and/or order number(s) missing (total price: 667,62)
+72 order(s) with tracking number(s) missing (total price: 3.404,30; total cost: 2.250,03)
+Profit: 1.154,27
+
+2020-05-11
+11 order(s) with cost(s) and/or order number(s) missing (total price: 882,30)
+79 order(s) with tracking number(s) missing (total price: 3.874,25; total cost: 2.574,38)
+Profit: 1.299,87
+
+2020-05-12
+10 order(s) with cost(s) and/or order number(s) missing (total price: 501,29)
+53 order(s) with tracking number(s) missing (total price: 2.627,25; total cost: 1.776,36)
+Profit: 850,89
+
+2020-05-13
+10 order(s) with cost(s) and/or order number(s) missing (total price: 419,09)
+51 order(s) with tracking number(s) missing (total price: 2.461,02; total cost: 1.656,79)
+Profit: 804,23
+
+2020-05-14
+13 order(s) with cost(s) and/or order number(s) missing (total price: 711,24)
+80 order(s) with tracking number(s) missing (total price: 3.551,26; total cost: 2.282,51)
+Profit: 1.268,75
+
+2020-05-15
+19 order(s) with cost(s) and/or order number(s) missing (total price: 967,37)
+84 order(s) with tracking number(s) missing (total price: 4.136,96; total cost: 2.751,13)
+Profit: 1.385,83
+
+2020-05-16
+17 order(s) with cost(s) and/or order number(s) missing (total price: 1.119,31)
+62 order(s) with tracking number(s) missing (total price: 2.930,60; total cost: 1.913,11)
+Profit: 1.017,49
+
+2020-05-17
+8 order(s) with cost(s) and/or order number(s) missing (total price: 254,17)
+43 order(s) with tracking number(s) missing (total price: 1.590,07; total cost: 1.023,53)
+Profit: 566,54
+
+2020-05-18
+11 order(s) with cost(s) and/or order number(s) missing (total price: 1.398,78)
+65 order(s) with tracking number(s) missing (total price: 2.915,67; total cost: 1.875,22)
+Profit: 1.040,45
+
+2020-05-19
+11 order(s) with cost(s) and/or order number(s) missing (total price: 544,16)
+59 order(s) with tracking number(s) missing (total price: 2.706,08; total cost: 1.770,95)
+Profit: 935,13
+
+2020-05-20
+10 order(s) with cost(s) and/or order number(s) missing (total price: 471,52)
+69 order(s) with tracking number(s) missing (total price: 2.995,74; total cost: 1.937,29)
+Profit: 1.058,45
+
+2020-05-21
+11 order(s) with cost(s) and/or order number(s) missing (total price: 569,36)
+55 order(s) with tracking number(s) missing (total price: 2.347,33; total cost: 1.492,14)
+Profit: 855,19
+
+2020-05-22
+10 order(s) with cost(s) and/or order number(s) missing (total price: 655,06)
+52 order(s) with tracking number(s) missing (total price: 2.092,10; total cost: 1.324,93)
+Profit: 767,17
+
+2020-05-23
+10 order(s) with cost(s) and/or order number(s) missing (total price: 607,56)
+51 order(s) with tracking number(s) missing (total price: 2.242,01; total cost: 1.508,55)
+Profit: 733,46
+
+2020-05-24
+2 order(s) with cost(s) and/or order number(s) missing (total price: 82,64)
+35 order(s) with tracking number(s) missing (total price: 1.480,50; total cost: 960,81)
+Profit: 519,69
+
+2020-05-25
+9 order(s) with cost(s) and/or order number(s) missing (total price: 497,63)
+54 order(s) with tracking number(s) missing (total price: 2.237,16; total cost: 1.424,52)
+Profit: 812,64
+
+2020-05-26
+7 order(s) with cost(s) and/or order number(s) missing (total price: 460,96)
+54 order(s) with tracking number(s) missing (total price: 2.678,67; total cost: 1.790,89)
+Profit: 887,78
+
+2020-05-27
+5 order(s) with cost(s) and/or order number(s) missing (total price: 294,09)
+59 order(s) with tracking number(s) missing (total price: 2.991,66; total cost: 2.015,88)
+Profit: 975,78
+
+2020-05-28
+4 order(s) with cost(s) and/or order number(s) missing (total price: 363,81)
+61 order(s) with tracking number(s) missing (total price: 2.440,39; total cost: 1.609,07)
+Profit: 831,32
+
+2020-05-29
+6 order(s) with cost(s) and/or order number(s) missing (total price: 369,58)
+62 order(s) with tracking number(s) missing (total price: 2.834,87; total cost: 1.900,08)
+Profit: 934,79
+
+2020-05-30
+4 order(s) with cost(s) and/or order number(s) missing (total price: 290,97)
+56 order(s) with tracking number(s) missing (total price: 2.582,40; total cost: 1.677,49)
+Profit: 904,91
+
+2020-05-31
+8 order(s) with cost(s) and/or order number(s) missing (total price: 343,52)
+58 order(s) with tracking number(s) missing (total price: 2.544,21; total cost: 1.669,05)
+Profit: 875,16
+
+2020-06-01
+5 order(s) with cost(s) and/or order number(s) missing (total price: 229,18)
+76 order(s) with tracking number(s) missing (total price: 3.965,66; total cost: 2.732,72)
+Profit: 1.232,94
+
+2020-06-02
+2 order(s) with cost(s) and/or order number(s) missing (total price: 90,38)
+82 order(s) with tracking number(s) missing (total price: 3.689,03; total cost: 2.506,83)
+Profit: 1.182,20
+
+2020-06-03
+8 order(s) with cost(s) and/or order number(s) missing (total price: 514,66)
+56 order(s) with tracking number(s) missing (total price: 2.739,15; total cost: 1.848,92)
+Profit: 890,23
+
+2020-06-04
+6 order(s) with cost(s) and/or order number(s) missing (total price: 237,34)
+60 order(s) with tracking number(s) missing (total price: 3.250,40; total cost: 2.224,61)
+Profit: 1.025,79
+
+2020-06-05
+2 order(s) with cost(s) and/or order number(s) missing (total price: 108,79)
+64 order(s) with tracking number(s) missing (total price: 3.383,54; total cost: 2.334,45)
+Profit: 1.049,09
+
+2020-06-06
+4 order(s) with cost(s) and/or order number(s) missing (total price: 148,89)
+70 order(s) with tracking number(s) missing (total price: 3.360,35; total cost: 2.281,54)
+Profit: 1.078,81
+
+2020-06-07
+8 order(s) with cost(s) and/or order number(s) missing (total price: 780,03)
+57 order(s) with tracking number(s) missing (total price: 2.635,83; total cost: 1.766,05)
+Profit: 869,78
+
+2020-06-08
+1 order(s) with cost(s) and/or order number(s) missing (total price: 41,25)
+53 order(s) with tracking number(s) missing (total price: 2.695,22; total cost: 1.804,91)
+Profit: 890,31
+
+2020-06-09
+3 order(s) with cost(s) and/or order number(s) missing (total price: 263,00)
+70 order(s) with tracking number(s) missing (total price: 3.768,10; total cost: 2.551,11)
+Profit: 1.216,99
+
+2020-06-10
+7 order(s) with cost(s) and/or order number(s) missing (total price: 540,87)
+59 order(s) with tracking number(s) missing (total price: 2.769,35; total cost: 1.781,09)
+Profit: 988,26
+
+2020-06-11
+4 order(s) with cost(s) and/or order number(s) missing (total price: 270,93)
+53 order(s) with tracking number(s) missing (total price: 2.737,86; total cost: 1.804,65)
+Profit: 933,21
+
+2020-06-12
+5 order(s) with cost(s) and/or order number(s) missing (total price: 319,90)
+56 order(s) with tracking number(s) missing (total price: 3.260,18; total cost: 2.246,39)
+Profit: 1.013,79
+
+2020-06-13
+5 order(s) with cost(s) and/or order number(s) missing (total price: 218,43)
+40 order(s) with tracking number(s) missing (total price: 2.080,81; total cost: 1.389,06)
+Profit: 691,75
+
+2020-06-14
+6 order(s) with cost(s) and/or order number(s) missing (total price: 394,75)
+44 order(s) with tracking number(s) missing (total price: 1.780,27; total cost: 1.082,34)
+Profit: 697,93
+
+2020-06-15
+9 order(s) with cost(s) and/or order number(s) missing (total price: 545,80)
+51 order(s) with tracking number(s) missing (total price: 2.778,85; total cost: 1.809,30)
+Profit: 969,55
+
+2020-06-16
+12 order(s) with cost(s) and/or order number(s) missing (total price: 817,82)
+48 order(s) with tracking number(s) missing (total price: 2.475,17; total cost: 1.629,55)
+Profit: 845,62
+
+2020-06-17
+12 order(s) with cost(s) and/or order number(s) missing (total price: 443,77)
+63 order(s) with tracking number(s) missing (total price: 3.702,84; total cost: 2.547,39)
+Profit: 1.155,45
+
+2020-06-18
+10 order(s) with cost(s) and/or order number(s) missing (total price: 686,91)
+44 order(s) with tracking number(s) missing (total price: 2.003,40; total cost: 1.337,46)
+Profit: 665,94
+
+2020-06-19
+5 order(s) with cost(s) and/or order number(s) missing (total price: 376,23)
+44 order(s) with tracking number(s) missing (total price: 2.418,50; total cost: 1.632,96)
+Profit: 785,54
+
+2020-06-20
+6 order(s) with cost(s) and/or order number(s) missing (total price: 268,83)
+45 order(s) with tracking number(s) missing (total price: 2.380,22; total cost: 1.671,27)
+Profit: 708,95
+
+2020-06-21
+1 order(s) with cost(s) and/or order number(s) missing (total price: 91,08)
+37 order(s) with tracking number(s) missing (total price: 1.802,83; total cost: 1.167,24)
+Profit: 635,59
+
+2020-06-22
+4 order(s) with cost(s) and/or order number(s) missing (total price: 384,69)
+40 order(s) with tracking number(s) missing (total price: 1.880,20; total cost: 1.279,73)
+Profit: 600,47
+
+2020-06-23
+3 order(s) with cost(s) and/or order number(s) missing (total price: 151,77)
+35 order(s) with tracking number(s) missing (total price: 2.515,40; total cost: 1.787,30)
+Profit: 728,10
+
+2020-06-24
+3 order(s) with cost(s) and/or order number(s) missing (total price: 257,96)
+41 order(s) with tracking number(s) missing (total price: 1.848,00; total cost: 1.235,51)
+Profit: 612,49
+
+2020-06-25
+8 order(s) with cost(s) and/or order number(s) missing (total price: 699,78)
+40 order(s) with tracking number(s) missing (total price: 2.012,68; total cost: 1.361,55)
+Profit: 651,13
+
+2020-06-26
+1 order(s) with cost(s) and/or order number(s) missing (total price: 83,49)
+22 order(s) with tracking number(s) missing (total price: 788,89; total cost: 520,51)
+Profit: 268,38
+
+2020-06-27
+4 order(s) with cost(s) and/or order number(s) missing (total price: 141,41)
+24 order(s) with tracking number(s) missing (total price: 815,23; total cost: 549,21)
+Profit: 266,02
+
+2020-06-28
+2 order(s) with cost(s) and/or order number(s) missing (total price: 60,05)
+29 order(s) with tracking number(s) missing (total price: 1.087,99; total cost: 763,06)
+Profit: 324,93
+
+2020-06-29
+1 order(s) with cost(s) and/or order number(s) missing (total price: 72,42)
+26 order(s) with tracking number(s) missing (total price: 884,69; total cost: 561,29)
+Profit: 323,40
+
+2020-06-30
+2 order(s) with cost(s) and/or order number(s) missing (total price: 216,55)
+24 order(s) with tracking number(s) missing (total price: 1.145,94; total cost: 792,49)
+Profit: 353,45
+
+2020-07-01
+3 order(s) with cost(s) and/or order number(s) missing (total price: 111,83)
+19 order(s) with tracking number(s) missing (total price: 746,24; total cost: 513,65)
+Profit: 232,59
+
+2020-07-02
+9 order(s) with cost(s) and/or order number(s) missing (total price: 417,92)
+22 order(s) with tracking number(s) missing (total price: 1.005,64; total cost: 701,38)
+Profit: 304,26
+
+2020-07-03
+9 order(s) with cost(s) and/or order number(s) missing (total price: 294,18)
+22 order(s) with tracking number(s) missing (total price: 1.375,86; total cost: 954,58)
+Profit: 421,28
+
+2020-07-04
+5 order(s) with cost(s) and/or order number(s) missing (total price: 543,82)
+26 order(s) with tracking number(s) missing (total price: 1.259,00; total cost: 844,80)
+Profit: 414,20
+
+2020-07-05
+2 order(s) with cost(s) and/or order number(s) missing (total price: 93,64)
+34 order(s) with tracking number(s) missing (total price: 1.272,01; total cost: 829,00)
+Profit: 443,01
+
+2020-07-06
+7 order(s) with cost(s) and/or order number(s) missing (total price: 274,76)
+38 order(s) with tracking number(s) missing (total price: 1.647,69; total cost: 1.113,70)
+Profit: 533,99
+
+2020-07-07
+3 order(s) with cost(s) and/or order number(s) missing (total price: 132,29)
+36 order(s) with tracking number(s) missing (total price: 1.472,06; total cost: 991,89)
+Profit: 480,17
+
+2020-07-08
+2 order(s) with cost(s) and/or order number(s) missing (total price: 133,91)
+24 order(s) with tracking number(s) missing (total price: 1.280,14; total cost: 889,98)
+Profit: 390,16
+
+2020-07-09
+1 order(s) with cost(s) and/or order number(s) missing (total price: 109,53)
+23 order(s) with tracking number(s) missing (total price: 1.163,37; total cost: 758,41)
+Profit: 404,96
+
+2020-07-10
+3 order(s) with cost(s) and/or order number(s) missing (total price: 198,12)
+40 order(s) with tracking number(s) missing (total price: 2.389,28; total cost: 1.651,39)
+Profit: 737,89
+
+2020-07-11
+3 order(s) with cost(s) and/or order number(s) missing (total price: 221,90)
+27 order(s) with tracking number(s) missing (total price: 1.349,60; total cost: 937,30)
+Profit: 412,30
+
+2020-07-12
+1 order(s) with cost(s) and/or order number(s) missing (total price: 24,20)
+24 order(s) with tracking number(s) missing (total price: 1.089,73; total cost: 757,27)
+Profit: 332,46
+
+2020-07-13
+2 order(s) with cost(s) and/or order number(s) missing (total price: 50,11)
+30 order(s) with tracking number(s) missing (total price: 1.284,96; total cost: 924,24)
+Profit: 360,72
+
+2020-07-14
+4 order(s) with cost(s) and/or order number(s) missing (total price: 237,24)
+32 order(s) with tracking number(s) missing (total price: 1.899,56; total cost: 1.298,09)
+Profit: 601,47
+
+2020-07-15
+7 order(s) with cost(s) and/or order number(s) missing (total price: 436,70)
+47 order(s) with tracking number(s) missing (total price: 1.960,03; total cost: 1.317,81)
+Profit: 642,22
+
+2020-07-16
+5 order(s) with cost(s) and/or order number(s) missing (total price: 137,86)
+36 order(s) with tracking number(s) missing (total price: 2.029,53; total cost: 1.467,64)
+Profit: 561,89
+
+2020-07-17
+6 order(s) with cost(s) and/or order number(s) missing (total price: 328,72)
+28 order(s) with tracking number(s) missing (total price: 1.005,30; total cost: 623,07)
+Profit: 382,23
+
+2020-07-18
+3 order(s) with cost(s) and/or order number(s) missing (total price: 128,40)
+40 order(s) with tracking number(s) missing (total price: 1.808,24; total cost: 1.222,00)
+Profit: 586,24
+
+2020-07-19
+7 order(s) with cost(s) and/or order number(s) missing (total price: 452,95)
+37 order(s) with tracking number(s) missing (total price: 2.153,64; total cost: 1.493,77)
+Profit: 659,87
+
+2020-07-20
+2 order(s) with cost(s) and/or order number(s) missing (total price: 117,81)
+37 order(s) with tracking number(s) missing (total price: 1.525,00; total cost: 987,85)
+Profit: 537,15
+
+2020-07-21
+1 order(s) with cost(s) and/or order number(s) missing (total price: 24,18)
+32 order(s) with tracking number(s) missing (total price: 1.288,64; total cost: 836,14)
+Profit: 452,50
+
+2020-07-22
+3 order(s) with cost(s) and/or order number(s) missing (total price: 111,68)
+35 order(s) with tracking number(s) missing (total price: 1.841,34; total cost: 1.259,64)
+Profit: 581,70
+
+2020-07-23
+2 order(s) with cost(s) and/or order number(s) missing (total price: 194,34)
+36 order(s) with tracking number(s) missing (total price: 1.810,59; total cost: 1.223,49)
+Profit: 587,10
+
+2020-07-24
+7 order(s) with cost(s) and/or order number(s) missing (total price: 433,34)
+42 order(s) with tracking number(s) missing (total price: 1.873,15; total cost: 1.263,91)
+Profit: 609,24
+
+2020-07-25
+2 order(s) with cost(s) and/or order number(s) missing (total price: 55,34)
+22 order(s) with tracking number(s) missing (total price: 1.120,14; total cost: 774,34)
+Profit: 345,80
+
+2020-07-26
+2 order(s) with cost(s) and/or order number(s) missing (total price: 136,98)
+26 order(s) with tracking number(s) missing (total price: 1.268,43; total cost: 837,88)
+Profit: 430,55
+
+2020-07-27
+7 order(s) with cost(s) and/or order number(s) missing (total price: 383,05)
+31 order(s) with tracking number(s) missing (total price: 1.425,77; total cost: 952,04)
+Profit: 473,73
+
+2020-07-28
+2 order(s) with cost(s) and/or order number(s) missing (total price: 161,89)
+19 order(s) with tracking number(s) missing (total price: 1.046,31; total cost: 668,08)
+Profit: 378,23
+
+2020-07-29
+23 order(s) with tracking number(s) missing (total price: 1.016,19; total cost: 665,71)
+Profit: 350,48
+
+2020-07-30
+1 order(s) with cost(s) and/or order number(s) missing (total price: 133,11)
+23 order(s) with tracking number(s) missing (total price: 1.069,51; total cost: 673,19)
+Profit: 396,32
+
+2020-07-31
+2 order(s) with cost(s) and/or order number(s) missing (total price: 103,54)
+15 order(s) with tracking number(s) missing (total price: 914,72; total cost: 646,73)
+Profit: 267,99
+
+2020-08-01
+1 order(s) with cost(s) and/or order number(s) missing (total price: 43,16)
+27 order(s) with tracking number(s) missing (total price: 1.412,28; total cost: 974,05)
+Profit: 438,23
+
+2020-08-02
+22 order(s) with tracking number(s) missing (total price: 1.069,85; total cost: 701,97)
+Profit: 367,88
+
+2020-08-03
+4 order(s) with cost(s) and/or order number(s) missing (total price: 305,39)
+26 order(s) with tracking number(s) missing (total price: 1.144,79; total cost: 727,37)
+Profit: 417,42
+
+2020-08-04
+2 order(s) with cost(s) and/or order number(s) missing (total price: 149,81)
+17 order(s) with tracking number(s) missing (total price: 587,18; total cost: 383,53)
+Profit: 203,65
+
+2020-08-05
+3 order(s) with cost(s) and/or order number(s) missing (total price: 179,16)
+30 order(s) with tracking number(s) missing (total price: 1.239,60; total cost: 856,22)
+Profit: 383,38
+
+2020-08-06
+3 order(s) with cost(s) and/or order number(s) missing (total price: 233,05)
+27 order(s) with tracking number(s) missing (total price: 1.115,06; total cost: 756,20)
+Profit: 358,86
+
+2020-08-07
+6 order(s) with cost(s) and/or order number(s) missing (total price: 289,29)
+22 order(s) with tracking number(s) missing (total price: 883,65; total cost: 561,03)
+Profit: 322,62
+
+2020-08-08
+2 order(s) with cost(s) and/or order number(s) missing (total price: 167,72)
+21 order(s) with tracking number(s) missing (total price: 845,19; total cost: 539,13)
+Profit: 306,06
+
+2020-08-09
+12 order(s) with tracking number(s) missing (total price: 546,45; total cost: 395,40)
+Profit: 151,05
+
+2020-08-10
+2 order(s) with cost(s) and/or order number(s) missing (total price: 196,86)
+13 order(s) with tracking number(s) missing (total price: 750,99; total cost: 525,58)
+Profit: 225,41
+
+2020-08-11
+3 order(s) with cost(s) and/or order number(s) missing (total price: 118,11)
+18 order(s) with tracking number(s) missing (total price: 740,70; total cost: 449,80)
+Profit: 290,90
+
+2020-08-12
+4 order(s) with cost(s) and/or order number(s) missing (total price: 218,30)
+16 order(s) with tracking number(s) missing (total price: 572,97; total cost: 353,05)
+Profit: 219,92
+
+2020-08-13
+1 order(s) with cost(s) and/or order number(s) missing (total price: 28,37)
+13 order(s) with tracking number(s) missing (total price: 647,37; total cost: 420,52)
+Profit: 226,85
+
+2020-08-14
+10 order(s) with tracking number(s) missing (total price: 427,30; total cost: 268,65)
+Profit: 158,65
+
+2020-08-15
+1 order(s) with cost(s) and/or order number(s) missing (total price: 39,26)
+5 order(s) with tracking number(s) missing (total price: 298,50; total cost: 207,24)
+Profit: 91,26
+
+2020-08-16
+2 order(s) with cost(s) and/or order number(s) missing (total price: 51,12)
+7 order(s) with tracking number(s) missing (total price: 376,36; total cost: 261,71)
+Profit: 114,65
+
+2020-08-17
+1 order(s) with cost(s) and/or order number(s) missing (total price: 55,67)
+6 order(s) with tracking number(s) missing (total price: 313,69; total cost: 182,04)
+Profit: 131,65
+
+2020-08-18
+1 order(s) with cost(s) and/or order number(s) missing (total price: 52,56)
+6 order(s) with tracking number(s) missing (total price: 234,75; total cost: 155,86)
+Profit: 78,89
+
+2020-08-19
+10 order(s) with tracking number(s) missing (total price: 589,10; total cost: 366,96)
+Profit: 222,14
+
+2020-08-20
+3 order(s) with cost(s) and/or order number(s) missing (total price: 117,57)
+5 order(s) with tracking number(s) missing (total price: 229,37; total cost: 116,74)
+Profit: 112,63
+
+2020-08-21
+4 order(s) with cost(s) and/or order number(s) missing (total price: 411,00)
+6 order(s) with tracking number(s) missing (total price: 175,97; total cost: 104,61)
+Profit: 71,36
+
+2020-08-22
+1 order(s) with cost(s) and/or order number(s) missing (total price: 30,28)
+3 order(s) with tracking number(s) missing (total price: 186,90; total cost: 131,62)
+Profit: 55,28
+
+2020-08-23
+8 order(s) with tracking number(s) missing (total price: 385,77; total cost: 238,78)
+Profit: 146,99
+
+2020-08-24
+1 order(s) with cost(s) and/or order number(s) missing (total price: 67,10)
+11 order(s) with tracking number(s) missing (total price: 502,82; total cost: 312,48)
+Profit: 190,34
+
+2020-08-25
+3 order(s) with cost(s) and/or order number(s) missing (total price: 158,38)
+8 order(s) with tracking number(s) missing (total price: 577,81; total cost: 366,92)
+Profit: 210,89
+
+2020-08-26
+1 order(s) with cost(s) and/or order number(s) missing (total price: 30,30)
+3 order(s) with tracking number(s) missing (total price: 154,35; total cost: 114,41)
+Profit: 39,94
+
+2020-08-27
+12 order(s) with cost(s) and/or order number(s) missing (total price: 385,31)
+10 order(s) with tracking number(s) missing (total price: 422,38; total cost: 280,86)
+Profit: 141,52
+
+2020-08-28
+10 order(s) with tracking number(s) missing (total price: 449,56; total cost: 284,10)
+Profit: 165,46
+
+2020-08-29
+1 order(s) with cost(s) and/or order number(s) missing (total price: 78,48)
+9 order(s) with tracking number(s) missing (total price: 374,27; total cost: 209,00)
+Profit: 165,27
+
+2020-08-30
+1 order(s) with cost(s) and/or order number(s) missing (total price: 16,76)
+3 order(s) with tracking number(s) missing (total price: 189,50; total cost: 133,25)
+Profit: 56,25
+
+2020-08-31
+5 order(s) with tracking number(s) missing (total price: 190,47; total cost: 113,03)
+Profit: 77,44
+
+2020-09-01
+6 order(s) with tracking number(s) missing (total price: 202,63; total cost: 131,32)
+Profit: 71,31
+
+2020-09-02
+3 order(s) with cost(s) and/or order number(s) missing (total price: 135,39)
+6 order(s) with tracking number(s) missing (total price: 217,04; total cost: 117,70)
+Profit: 99,34
+
+2020-09-03
+1 order(s) with cost(s) and/or order number(s) missing (total price: 62,87)
+3 order(s) with tracking number(s) missing (total price: 80,84; total cost: 37,68)
+Profit: 43,16
+
+2020-09-04
+1 order(s) with cost(s) and/or order number(s) missing (total price: 47,07)
+3 order(s) with tracking number(s) missing (total price: 108,74; total cost: 73,06)
+Profit: 35,68
+
+2020-09-05
+4 order(s) with tracking number(s) missing (total price: 253,36; total cost: 128,50)
+Profit: 124,86
+
+2020-09-08
+1 order(s) with tracking number(s) missing (total price: 39,08; total cost: 25,02)
+Profit: 14,06
+
+2020-09-10
+1 order(s) with cost(s) and/or order number(s) missing (total price: 16,69)
+Profit: 0,00
+
+2020-09-14
+1 order(s) with tracking number(s) missing (total price: 121,05; total cost: 66,57)
+Profit: 54,48
+
+2020-09-16
+1 order(s) with tracking number(s) missing (total price: 91,82; total cost: 43,98)
+Profit: 47,84
+
+2020-09-18
+1 order(s) with tracking number(s) missing (total price: 39,56; total cost: 17,98)
+Profit: 21,58
+
+2020-09-19
+1 order(s) with tracking number(s) missing (total price: 18,57; total cost: 6,54)
+Profit: 12,03
+
+2020-09-20
+1 order(s) with cost(s) and/or order number(s) missing (total price: 74,76)
+Profit: 0,00
+
+2020-09-26
+2 order(s) with tracking number(s) missing (total price: 77,24; total cost: 46,86)
+Profit: 30,38
+
+2020-09-27
+1 order(s) with cost(s) and/or order number(s) missing (total price: 119,44)
+3 order(s) with tracking number(s) missing (total price: 202,86; total cost: 114,13)
+Profit: 88,73
+
+2020-09-29
+1 order(s) with cost(s) and/or order number(s) missing (total price: 66,57)
+5 order(s) with tracking number(s) missing (total price: 125,96; total cost: 76,31)
+Profit: 49,65
+
+2020-10-01
+3 order(s) with cost(s) and/or order number(s) missing (total price: 112,15)
+Profit: 0,00
+
+2020-10-02
+2 order(s) with cost(s) and/or order number(s) missing (total price: 49,50)
+1 order(s) with tracking number(s) missing (total price: 37,39; total cost: 21,97)
+Profit: 15,42
+
+2020-10-03
+6 order(s) with tracking number(s) missing (total price: 194,41; total cost: 120,29)
+Profit: 74,12
+
+2020-10-04
+2 order(s) with tracking number(s) missing (total price: 41,99; total cost: 25,58)
+Profit: 16,41
+
+2020-10-05
+1 order(s) with tracking number(s) missing (total price: 70,93; total cost: 50,88)
+Profit: 20,05
+
+2020-10-06
+4 order(s) with cost(s) and/or order number(s) missing (total price: 163,35)
+2 order(s) with tracking number(s) missing (total price: 52,95; total cost: 32,00)
+Profit: 20,95
+
+2020-10-07
+1 order(s) with tracking number(s) missing (total price: 63,41; total cost: 48,95)
+Profit: 14,46
+
+2020-10-08
+2 order(s) with tracking number(s) missing (total price: 30,81; total cost: 15,19)
+Profit: 15,62
+
+2020-10-10
+1 order(s) with tracking number(s) missing (total price: 208,22; total cost: 151,52)
+Profit: 56,70
+
+2020-10-11
+1 order(s) with cost(s) and/or order number(s) missing (total price: 85,29)
+3 order(s) with tracking number(s) missing (total price: 59,43; total cost: 35,28)
+Profit: 24,15
+
+2020-10-12
+1 order(s) with tracking number(s) missing (total price: 44,93; total cost: 31,56)
+Profit: 13,37
+
+2020-10-14
+1 order(s) with tracking number(s) missing (total price: 70,35; total cost: 34,15)
+Profit: 36,20
+
+2020-10-15
+1 order(s) with cost(s) and/or order number(s) missing (total price: 23,90)
+1 order(s) with tracking number(s) missing (total price: 28,34; total cost: 18,67)
+Profit: 9,67
+
+2020-10-17
+1 order(s) with tracking number(s) missing (total price: 85,29; total cost: 65,00)
+Profit: 20,29
+
+2020-10-18
+1 order(s) with tracking number(s) missing (total price: 14,21; total cost: 6,89)
+Profit: 7,32
+
+2020-10-19
+1 order(s) with cost(s) and/or order number(s) missing (total price: 88,79)
+Profit: 0,00
+
+2020-10-20
+1 order(s) with tracking number(s) missing (total price: 31,86; total cost: 17,30)
+Profit: 14,56
+
+2020-10-23
+1 order(s) with cost(s) and/or order number(s) missing (total price: 42,02)
+Profit: 0,00
+
+2020-10-24
+2 order(s) with cost(s) and/or order number(s) missing (total price: 55,96)
+4 order(s) with tracking number(s) missing (total price: 133,40; total cost: 75,44)
+Profit: 57,96
+
+2020-10-25
+1 order(s) with tracking number(s) missing (total price: 13,91; total cost: 6,39)
+Profit: 7,52
+
+2020-10-26
+1 order(s) with cost(s) and/or order number(s) missing (total price: 147,04)
+Profit: 0,00
+
+2020-10-27
+1 order(s) with cost(s) and/or order number(s) missing (total price: 146,33)
+3 order(s) with tracking number(s) missing (total price: 279,98; total cost: 202,03)
+Profit: 77,95
+
+2020-10-28
+1 order(s) with cost(s) and/or order number(s) missing (total price: 22,78)
+1 order(s) with tracking number(s) missing (total price: 39,10; total cost: 26,82)
+Profit: 12,28
+
+2020-10-30
+1 order(s) with cost(s) and/or order number(s) missing (total price: 21,83)
+1 order(s) with tracking number(s) missing (total price: 31,58; total cost: 24,58)
+Profit: 7,00
+
+2020-10-31
+1 order(s) with tracking number(s) missing (total price: 13,25; total cost: 6,83)
+Profit: 6,42
+
+2020-11-01
+1 order(s) with tracking number(s) missing (total price: 20,40; total cost: 12,71)
+Profit: 7,69
+
+2020-11-05
+1 order(s) with cost(s) and/or order number(s) missing (total price: 23,58)
+1 order(s) with tracking number(s) missing (total price: 14,94; total cost: 11,12)
+Profit: 3,82
+
+2020-11-08
+1 order(s) with cost(s) and/or order number(s) missing (total price: 17,25)
+Profit: 0,00
+
+2020-11-09
+1 order(s) with cost(s) and/or order number(s) missing (total price: 18,03)
+Profit: 0,00
+
+2020-11-10
+1 order(s) with tracking number(s) missing (total price: 16,34; total cost: 7,91)
+Profit: 8,43
+
+2020-11-11
+1 order(s) with cost(s) and/or order number(s) missing (total price: 11,34)
+1 order(s) with tracking number(s) missing (total price: 52,08; total cost: 36,06)
+Profit: 16,02
+
+2020-11-12
+1 order(s) with tracking number(s) missing (total price: 32,89; total cost: 16,06)
+Profit: 16,83
+
+2020-11-14
+2 order(s) with tracking number(s) missing (total price: 154,32; total cost: 98,47)
+Profit: 55,85
+
+2020-11-15
+2 order(s) with tracking number(s) missing (total price: 45,85; total cost: 29,26)
+Profit: 16,59
+
+2020-11-17
+1 order(s) with cost(s) and/or order number(s) missing (total price: 107,22)
+2 order(s) with tracking number(s) missing (total price: 36,15; total cost: 22,53)
+Profit: 13,62
+
+2020-11-18
+4 order(s) with tracking number(s) missing (total price: 177,55; total cost: 128,42)
+Profit: 49,13
+
+2020-11-19
+1 order(s) with cost(s) and/or order number(s) missing (total price: 14,89)
+Profit: 0,00
+
+2020-11-20
+1 order(s) with cost(s) and/or order number(s) missing (total price: 30,90)
+2 order(s) with tracking number(s) missing (total price: 34,66; total cost: 20,55)
+Profit: 14,11
+
+2020-11-22
+1 order(s) with tracking number(s) missing (total price: 11,96; total cost: 5,94)
+Profit: 6,02
+
+2020-11-26
+1 order(s) with cost(s) and/or order number(s) missing (total price: 157,38)
+1 order(s) with tracking number(s) missing (total price: 222,46; total cost: 166,19)
+Profit: 56,27
+
+2020-11-29
+1 order(s) with tracking number(s) missing (total price: 18,98; total cost: 12,57)
+Profit: 6,41
+
+2020-12-04
+1 order(s) with tracking number(s) missing (total price: 63,70; total cost: 45,99)
+Profit: 17,71
+
+2020-12-08
+1 order(s) with cost(s) and/or order number(s) missing (total price: 122,79)
+2 order(s) with tracking number(s) missing (total price: 41,60; total cost: 27,96)
+Profit: 13,64
+
+2020-12-10
+2 order(s) with cost(s) and/or order number(s) missing (total price: 108,79)
+Profit: 0,00

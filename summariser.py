@@ -1,4 +1,5 @@
 from order import Order
+from globals import Invalids
 
 from itertools import chain, groupby
 from operator import itemgetter
@@ -40,12 +41,12 @@ class Summariser():
         start_item = Order(ord_id='ord-id-start', buy_date=buy_date,
                             price=None, quant=None, cost=None, ord_no='',
                             track_no='', ord_accum=0)
-        if invalid != 1:
+        if invalid != Invalids.NO_PRICE_QUANT:
             start_item['total_price'] = 0.0
-        if invalid != 2:
+        if invalid != Invalids.NO_COST:
             start_item['cost'] = 0.0
+        if invalid != Invalids.NO_ORD_TRACK_NR:
             start_item['ord_no'] = 'ord-no-start'
-        if invalid != 3:
             start_item['track_no'] = 'track-no-start'
         start_item['invalid'] = start_item.check_invalid()
 
