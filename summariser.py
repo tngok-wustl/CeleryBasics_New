@@ -1,6 +1,5 @@
 from order import Order
 from globals import Invalids
-
 from itertools import chain, groupby
 from operator import itemgetter
 

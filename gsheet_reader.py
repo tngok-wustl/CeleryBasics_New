@@ -1,18 +1,9 @@
 import gspread
 from gspread.exceptions import *
-
 from dateutil import parser
 from time import sleep
-
 from order import Order
-
-ORD_ID_KEY = 'order-id'
-DATE_KEY = 'purchase-date'
-PRICE_KEY = 'price'
-QUANT_KEY = 'quantity-purchased'
-COST_KEY = 'COST'
-ORD_NO_KEY = 'ORDER NUMBER'
-TRACK_NO_KEY = 'Tracking Number'
+from globals import ColNames
 
 class GSheetReader():
     def __init__(self):
@@ -107,12 +98,12 @@ class GSheetReader():
         # 一些重要列的编号（-1表示没找到）
         ord_no_i = -1
         col_indices = {
-            DATE_KEY: -1,
-            PRICE_KEY: -1,
-            QUANT_KEY: -1,
-            COST_KEY: -1,
-            ORD_NO_KEY: -1,
-            TRACK_NO_KEY: -1,
+            ColNames.DATE_KEY: -1,
+            ColNames.PRICE_KEY: -1,
+            ColNames.QUANT_KEY: -1,
+            ColNames.COST_KEY: -1,
+            ColNames.ORD_NO_KEY: -1,
+            ColNames.TRACK_NO_KEY: -1,
             }
 
         records = []
@@ -125,8 +116,8 @@ class GSheetReader():
             # 第5步：从工作表中提取重要的列名
             #（订单识别码不可缺，否则该工作表所有记录无效）
             if ord_no_i < 0:
-                if ORD_ID_KEY in row:
-                    ord_no_i = row.index(ORD_ID_KEY)
+                if ColNames.ORD_ID_KEY in row:
+                    ord_no_i = row.index(ColNames.ORD_ID_KEY)
                     for k in col_indices.keys():
                         if k in row:
                             col_indices[k] = row.index(k)
@@ -138,20 +129,18 @@ class GSheetReader():
                     print(f"Order ID missing i={ri}")
                     continue
                 
-                buy_date = self.value_cleanup(col_indices, DATE_KEY, row,
+                buy_date = self.value_cleanup(col_indices, ColNames.DATE_KEY, row,
                                                 parser.parse)
                 if buy_date is None: # 跳过日期格式不规范的记录
                     print(f"Bad date i={ri}")
                     continue
                 buy_date = buy_date.date()
 
-                price = self.value_cleanup(col_indices, PRICE_KEY, row,
-                                            float)
-                quant = self.value_cleanup(col_indices, QUANT_KEY, row, int)
-                cost = self.value_cleanup(col_indices, COST_KEY, row, float)
-                ord_no = self.value_cleanup(col_indices, ORD_NO_KEY, row)
-                track_no = self.value_cleanup(col_indices, TRACK_NO_KEY,
-                                                row)
+                price = self.value_cleanup(col_indices, ColNames.PRICE_KEY, row, float)
+                quant = self.value_cleanup(col_indices, ColNames.QUANT_KEY, row, int)
+                cost = self.value_cleanup(col_indices, ColNames.COST_KEY, row, float)
+                ord_no = self.value_cleanup(col_indices, ColNames.ORD_NO_KEY, row)
+                track_no = self.value_cleanup(col_indices, ColNames.TRACK_NO_KEY, row)
 
                 # 第7步：将每条数据加入该工作表的记录单
                 record = Order(ord_id, buy_date, price, quant, cost, ord_no,
